@@ -17,7 +17,7 @@
     },
     {
         "Row": 11,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"2800\",\"City\":\"Tatabánya\",\"StreetAddress\":\"Moravcsik u.4.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"egész évben\\nhétköznap 8-12óráig\\ndu. és hétvégén\\ntelefonos egyeztetés alapján\\ntel.:06-30/9470193\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"212-0200-150601-0006\",\"Name\":\"Vrba György\",\"ZipCode\":\"2800\",\"City\":\"Tatabánya\",\"StreetAddress\":\"Moravcsik u.4.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"egész évben\\nhétköznap 8-12óráig\\ndu. és hétvégén\\ntelefonos egyeztetés alapján\\ntel.:06-30/9470193\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 12,
@@ -29,7 +29,7 @@
     },
     {
         "Row": 15,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"5540\",\"City\":\"Szarvas\",\"StreetAddress\":\"Vasút u. 98.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"folyamatosan egész évben\\ntel.:06-20/9852263\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"332-1200-161208-0009\",\"Name\":\"Gaál Sándor\",\"ZipCode\":\"5540\",\"City\":\"Szarvas\",\"StreetAddress\":\"Vasút u. 98.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"folyamatosan egész évben\\ntel.:06-20/9852263\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 16,
@@ -45,7 +45,7 @@
     },
     {
         "Row": 19,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"8230\",\"City\":\"Balatonfüred\",\"StreetAddress\":\"Ferencsik u.10.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"egész évben\\nminden nap\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"213-1200-160801-0012\",\"Name\":\"Szalay László\",\"ZipCode\":\"8230\",\"City\":\"Balatonfüred\",\"StreetAddress\":\"Ferencsik u.10.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"egész évben\\nminden nap\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 20,
@@ -53,7 +53,7 @@
     },
     {
         "Row": 21,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"4274\",\"City\":\"Hosszúpályi\",\"StreetAddress\":\"Víg u. 12.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"hétfőtől vasárnapig\\n16 - 20 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"321-0200-161215-0013\",\"Name\":\"Vértesi János Zsolt\",\"ZipCode\":\"4274\",\"City\":\"Hosszúpályi\",\"StreetAddress\":\"Víg u. 12.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"hétfőtől vasárnapig\\n16 - 20 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 22,
@@ -61,7 +61,7 @@
     },
     {
         "Row": 23,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"-\",\"City\":\"-\",\"StreetAddress\":\"Ózonpajzs Kör és Zöld Kör\\nkörnyezetvédő társadalmi \\nszervezetek által szervezett\\ngombaszedő túrák\",\"LocationDescription\":\"Különböző helyszíneken\",\"Availability\":\"évente 8-10 alkalom\\nalkalmanként 1-2 nap\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"321-0204-161220-0014\",\"Name\":\"Kathy Zsigmond\",\"ZipCode\":\"-\",\"City\":\"-\",\"StreetAddress\":\"Ózonpajzs Kör és Zöld Kör\\nkörnyezetvédő társadalmi \\nszervezetek által szervezett\\ngombaszedő túrák\",\"LocationDescription\":\"Különböző helyszíneken\",\"Availability\":\"évente 8-10 alkalom\\nalkalmanként 1-2 nap\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 24,
@@ -101,7 +101,7 @@
     },
     {
         "Row": 33,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"6640\",\"City\":\"Csongrád\",\"StreetAddress\":\"Hársfa u. 37.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"egész évben \\nelőzetes egyeztetés alapján\\ntel:06-30/9252584\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"333-1204-170103-0023\",\"Name\":\"Gyapjas Mihály\",\"ZipCode\":\"6640\",\"City\":\"Csongrád\",\"StreetAddress\":\"Hársfa u. 37.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"egész évben \\nelőzetes egyeztetés alapján\\ntel:06-30/9252584\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 34,
@@ -109,7 +109,7 @@
     },
     {
         "Row": 35,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"9200\",\"City\":\"Mosonmagyaróvár\",\"StreetAddress\":\"Szent István király \\nu. 53 I/7\",\"LocationDescription\":\"Lakás\",\"Availability\":\"előzetes egyeztetés alapján\\nfolyamatosan egész évben\\ntel.:06-30/4737427\\ntel.:06-30/8672845\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"221-1200-170103-0024\",\"Name\":\"Kissné Vida Éva\",\"ZipCode\":\"9200\",\"City\":\"Mosonmagyaróvár\",\"StreetAddress\":\"Szent István király \\nu. 53 I/7\",\"LocationDescription\":\"Lakás\",\"Availability\":\"előzetes egyeztetés alapján\\nfolyamatosan egész évben\\ntel.:06-30/4737427\\ntel.:06-30/8672845\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 36,
@@ -125,7 +125,7 @@
     },
     {
         "Row": 39,
-        "JSON": "{\"RegistrationNumber\":\"102-1200-161208-0028\",\"Name\":\"Budaváriné Balázs\\n Edit\",\"ZipCode\":\"2700\",\"City\":\"Cegléd\",\"StreetAddress\":\"Kossuth tér 4.\",\"LocationDescription\":\"Napi Élelmiszer és Virágpiac\",\"Availability\":\"minden második héten\\nh-v:6-12óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-1200-161208-0028\",\"Name\":\"Budaváriné Balázs Edit\",\"ZipCode\":\"2700\",\"City\":\"Cegléd\",\"StreetAddress\":\"Kossuth tér 4.\",\"LocationDescription\":\"Napi Élelmiszer és Virágpiac\",\"Availability\":\"minden második héten\\nh-v:6-12óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 40,
@@ -149,11 +149,11 @@
     },
     {
         "Row": 45,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"4100\",\"City\":\"Berettyóújfalu\",\"StreetAddress\":\"József Attila út 35.\",\"LocationDescription\":\"Piac\",\"Availability\":\"csütörtök, szombat  \\n6-11-óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"321-1200-170105-0033\",\"Name\":\"Erdei Zoltán\",\"ZipCode\":\"4100\",\"City\":\"Berettyóújfalu\",\"StreetAddress\":\"József Attila út 35.\",\"LocationDescription\":\"Piac\",\"Availability\":\"csütörtök, szombat  \\n6-11-óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 46,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"4100\",\"City\":\"Berettyóújfalu\",\"StreetAddress\":\"Dózsa György út.17-19\",\"LocationDescription\":\"Piac\",\"Availability\":\"hétfő, csütörtök, péntek\\nszombat, vasárnap\\n16 30-18 30-ig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"321-1200-170105-0033\",\"Name\":\"Erdei Zoltán\",\"ZipCode\":\"4100\",\"City\":\"Berettyóújfalu\",\"StreetAddress\":\"Dózsa György út.17-19\",\"LocationDescription\":\"Piac\",\"Availability\":\"hétfő, csütörtök, péntek\\nszombat, vasárnap\\n16 30-18 30-ig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 50,
@@ -169,7 +169,7 @@
     },
     {
         "Row": 53,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"\",\"City\":\"Miskolc\",\"StreetAddress\":\"Gombász rendezvények\",\"LocationDescription\":\"Rendezvények helyszínei\",\"Availability\":\"Előzetes egyeztetés alapján\\ntel.:06-20/9618300\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"311-0204-121019-0037\",\"Name\":\"Szűcs Béla\",\"ZipCode\":\"\",\"City\":\"Miskolc\",\"StreetAddress\":\"Gombász rendezvények\",\"LocationDescription\":\"Rendezvények helyszínei\",\"Availability\":\"Előzetes egyeztetés alapján\\ntel.:06-20/9618300\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 54,
@@ -177,23 +177,23 @@
     },
     {
         "Row": 55,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0038\",\"Name\":\"Tóth Zoltán\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 56,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0038\",\"Name\":\"Tóth Zoltán\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 57,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0038\",\"Name\":\"Tóth Zoltán\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 58,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0038\",\"Name\":\"Tóth Zoltán\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 59,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0038\",\"Name\":\"Tóth Zoltán\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 60,
@@ -201,23 +201,23 @@
     },
     {
         "Row": 61,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint\\n7-16óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170223-0039\",\"Name\":\"Lovász Károly\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint\\n7-16óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 62,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint\\n7-16óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170223-0039\",\"Name\":\"Lovász Károly\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint\\n7-16óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 63,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint\\n7-16óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170223-0039\",\"Name\":\"Lovász Károly\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint\\n7-16óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 64,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint\\n7-16óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170223-0039\",\"Name\":\"Lovász Károly\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint\\n7-16óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 65,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint\\n7-16óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170223-0039\",\"Name\":\"Lovász Károly\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint\\n7-16óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 66,
@@ -229,23 +229,23 @@
     },
     {
         "Row": 73,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0041\",\"Name\":\"Varga Gabriella\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 74,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0041\",\"Name\":\"Varga Gabriella\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 75,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0041\",\"Name\":\"Varga Gabriella\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 76,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0041\",\"Name\":\"Varga Gabriella\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 77,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0041\",\"Name\":\"Varga Gabriella\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 78,
@@ -253,23 +253,23 @@
     },
     {
         "Row": 79,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint \\n6-18-óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0042\",\"Name\":\"Tenta János\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint \\n6-18-óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 80,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint \\n6-18-óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0042\",\"Name\":\"Tenta János\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint \\n6-18-óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 81,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint \\n6-18-óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0042\",\"Name\":\"Tenta János\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint \\n6-18-óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 82,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint \\n6-18-óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0042\",\"Name\":\"Tenta János\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint \\n6-18-óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 83,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint \\n6-18-óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0042\",\"Name\":\"Tenta János\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint \\n6-18-óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 84,
@@ -281,75 +281,75 @@
     },
     {
         "Row": 88,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0045\",\"Name\":\"Lakatos Szilárd\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 89,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0045\",\"Name\":\"Lakatos Szilárd\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 90,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0045\",\"Name\":\"Lakatos Szilárd\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 91,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0045\",\"Name\":\"Lakatos Szilárd\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 92,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0045\",\"Name\":\"Lakatos Szilárd\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 93,
-        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0046\",\"Name\":\"Kovácsné Urbancsek \\nÉva\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0046\",\"Name\":\"Kovácsné Urbancsek Éva\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 99,
-        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0047\",\"Name\":\"Geluné Székely-\\nSzilágyi Beáta\",\"ZipCode\":\"1093\",\"City\":\"Budapest\",\"StreetAddress\":\"Vámház krt.1-3.\",\"LocationDescription\":\"Vámház krt-i vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0047\",\"Name\":\"Geluné Székely- Szilágyi Beáta\",\"ZipCode\":\"1093\",\"City\":\"Budapest\",\"StreetAddress\":\"Vámház krt.1-3.\",\"LocationDescription\":\"Vámház krt-i vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 100,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0047\",\"Name\":\"Geluné Székely- Szilágyi Beáta\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 101,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0047\",\"Name\":\"Geluné Székely- Szilágyi Beáta\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 102,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0047\",\"Name\":\"Geluné Székely- Szilágyi Beáta\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 103,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0047\",\"Name\":\"Geluné Székely- Szilágyi Beáta\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 104,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0047\",\"Name\":\"Geluné Székely- Szilágyi Beáta\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 105,
-        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0048\",\"Name\":\"Gyarmatiné Nagy \\nAndrea\",\"ZipCode\":\"1093\",\"City\":\"Budapest\",\"StreetAddress\":\"Vámház krt.1-3.\",\"LocationDescription\":\"Vámház krt-i vásárcsarnok\",\"Availability\":\"6-18óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0048\",\"Name\":\"Gyarmatiné Nagy Andrea\",\"ZipCode\":\"1093\",\"City\":\"Budapest\",\"StreetAddress\":\"Vámház krt.1-3.\",\"LocationDescription\":\"Vámház krt-i vásárcsarnok\",\"Availability\":\"6-18óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 106,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"6-18óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0048\",\"Name\":\"Gyarmatiné Nagy Andrea\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"6-18óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 107,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"6-18óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0048\",\"Name\":\"Gyarmatiné Nagy Andrea\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"6-18óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 108,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"6-18óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0048\",\"Name\":\"Gyarmatiné Nagy Andrea\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"6-18óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 109,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"6-18óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0048\",\"Name\":\"Gyarmatiné Nagy Andrea\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"6-18óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 110,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"6-18óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0048\",\"Name\":\"Gyarmatiné Nagy Andrea\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"6-18óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 111,
@@ -357,23 +357,23 @@
     },
     {
         "Row": 112,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0049\",\"Name\":\"Hegedűs Lászlóné\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 113,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0049\",\"Name\":\"Hegedűs Lászlóné\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 114,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0049\",\"Name\":\"Hegedűs Lászlóné\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 115,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0049\",\"Name\":\"Hegedűs Lászlóné\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 116,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0049\",\"Name\":\"Hegedűs Lászlóné\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 124,
@@ -381,23 +381,23 @@
     },
     {
         "Row": 125,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0051\",\"Name\":\"Csordás István\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 126,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0051\",\"Name\":\"Csordás István\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 127,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0051\",\"Name\":\"Csordás István\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 128,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0051\",\"Name\":\"Csordás István\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 129,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0051\",\"Name\":\"Csordás István\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"beosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 130,
@@ -405,23 +405,23 @@
     },
     {
         "Row": 131,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0052\",\"Name\":\"Abszolon Tímea\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 132,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0052\",\"Name\":\"Abszolon Tímea\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 133,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0052\",\"Name\":\"Abszolon Tímea\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 134,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0052\",\"Name\":\"Abszolon Tímea\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 135,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0052\",\"Name\":\"Abszolon Tímea\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 136,
@@ -429,23 +429,23 @@
     },
     {
         "Row": 137,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0053\",\"Name\":\"Csapó Pál\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 138,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0053\",\"Name\":\"Csapó Pál\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 139,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0053\",\"Name\":\"Csapó Pál\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 140,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0053\",\"Name\":\"Csapó Pál\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 141,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0053\",\"Name\":\"Csapó Pál\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 142,
@@ -453,23 +453,23 @@
     },
     {
         "Row": 143,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0054\",\"Name\":\"Watzker Alexandra\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 144,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0054\",\"Name\":\"Watzker Alexandra\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 145,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0054\",\"Name\":\"Watzker Alexandra\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 146,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0054\",\"Name\":\"Watzker Alexandra\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 147,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0054\",\"Name\":\"Watzker Alexandra\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"folyamatosan egész évben\\n6-18-óráig\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 148,
@@ -481,11 +481,11 @@
     },
     {
         "Row": 155,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"6800\",\"City\":\"Hódmezővásárhely\",\"StreetAddress\":\"Szabadság tér 96.\",\"LocationDescription\":\"Hódmezővásárhely \\nVáros Piaca\",\"Availability\":\"Kedd, Péntek,Vasárnap\\n6-8-óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"333-1204-170224-0056\",\"Name\":\"Higi Andrásné\",\"ZipCode\":\"6800\",\"City\":\"Hódmezővásárhely\",\"StreetAddress\":\"Szabadság tér 96.\",\"LocationDescription\":\"Hódmezővásárhely \\nVáros Piaca\",\"Availability\":\"Kedd, Péntek,Vasárnap\\n6-8-óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 156,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"-\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"Különböző helyszíneken\",\"Availability\":\"Alkalmanként \\negyeztetés szerint\\ntel.:06-20/41418052\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"333-1204-170224-0056\",\"Name\":\"Higi Andrásné\",\"ZipCode\":\"-\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"Különböző helyszíneken\",\"Availability\":\"Alkalmanként \\negyeztetés szerint\\ntel.:06-20/41418052\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 157,
@@ -501,23 +501,23 @@
     },
     {
         "Row": 160,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0059\",\"Name\":\"Sebők Gyula\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 161,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0059\",\"Name\":\"Sebők Gyula\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 162,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0059\",\"Name\":\"Sebők Gyula\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 163,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0059\",\"Name\":\"Sebők Gyula\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 164,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1093\",\"City\":\"Budapest\",\"StreetAddress\":\"Vámház krt.1-3.\",\"LocationDescription\":\"Vámház krt-i vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0059\",\"Name\":\"Sebők Gyula\",\"ZipCode\":\"1093\",\"City\":\"Budapest\",\"StreetAddress\":\"Vámház krt.1-3.\",\"LocationDescription\":\"Vámház krt-i vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 165,
@@ -525,23 +525,23 @@
     },
     {
         "Row": 166,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0060\",\"Name\":\"Kun Regina\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 167,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0060\",\"Name\":\"Kun Regina\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 168,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0060\",\"Name\":\"Kun Regina\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 169,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0060\",\"Name\":\"Kun Regina\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 170,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1093\",\"City\":\"Budapest\",\"StreetAddress\":\"Vámház krt.1-3.\",\"LocationDescription\":\"Vámház krt-i vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0060\",\"Name\":\"Kun Regina\",\"ZipCode\":\"1093\",\"City\":\"Budapest\",\"StreetAddress\":\"Vámház krt.1-3.\",\"LocationDescription\":\"Vámház krt-i vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 171,
@@ -549,27 +549,27 @@
     },
     {
         "Row": 172,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0061\",\"Name\":\"Kató Zsoltné\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 173,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0061\",\"Name\":\"Kató Zsoltné\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház Utcai Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 174,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0061\",\"Name\":\"Kató Zsoltné\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 175,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0061\",\"Name\":\"Kató Zsoltné\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti Üzletközpont\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 176,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1093\",\"City\":\"Budapest\",\"StreetAddress\":\"Vámház krt.1-3.\",\"LocationDescription\":\"Vámház krt-i vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0061\",\"Name\":\"Kató Zsoltné\",\"ZipCode\":\"1093\",\"City\":\"Budapest\",\"StreetAddress\":\"Vámház krt.1-3.\",\"LocationDescription\":\"Vámház krt-i vásárcsarnok\",\"Availability\":\"nyitvatartási időben\\nbeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 177,
-        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0062\",\"Name\":\"Katonáné Vereczkei\\n Mária\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-170220-0062\",\"Name\":\"Katonáné Vereczkei Mária\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 183,
@@ -577,7 +577,7 @@
     },
     {
         "Row": 184,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"5350\",\"City\":\"Tiszafüred\",\"StreetAddress\":\"Bajcsy Zs. E. út 64/A\",\"LocationDescription\":\"Lakás\",\"Availability\":\"Előzetes egyeztetés alapján\\negész évben\\ntel.:06-20/2093341\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"322-1200-170306-0063\",\"Name\":\"Katona József\",\"ZipCode\":\"5350\",\"City\":\"Tiszafüred\",\"StreetAddress\":\"Bajcsy Zs. E. út 64/A\",\"LocationDescription\":\"Lakás\",\"Availability\":\"Előzetes egyeztetés alapján\\negész évben\\ntel.:06-20/2093341\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 185,
@@ -585,11 +585,11 @@
     },
     {
         "Row": 186,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"9700\",\"City\":\"Szombathely\",\"StreetAddress\":\"Kodály Zoltán u. 4.\",\"LocationDescription\":\"Szombathelyi Gomba és Gyógynövénygyűjtő Klub\",\"Availability\":\"minden hónap 2. péntekén                                      18-20 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"222-1204-170313-0064\",\"Name\":\"Kalauz Katalin Erzsébet\",\"ZipCode\":\"9700\",\"City\":\"Szombathely\",\"StreetAddress\":\"Kodály Zoltán u. 4.\",\"LocationDescription\":\"Szombathelyi Gomba és Gyógynövénygyűjtő Klub\",\"Availability\":\"minden hónap 2. péntekén                                      18-20 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 187,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"Táborok                    Kiállítások                                                                                 Előadások\",\"Availability\":\"Előre egyeztetett időpontokban                             tel: 30/479-37-34\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"222-1204-170313-0064\",\"Name\":\"Kalauz Katalin Erzsébet\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"Táborok                    Kiállítások                                                                                 Előadások\",\"Availability\":\"Előre egyeztetett időpontokban                             tel: 30/479-37-34\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 188,
@@ -597,11 +597,11 @@
     },
     {
         "Row": 189,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"9700\",\"City\":\"Szombathely\",\"StreetAddress\":\"Kodály Zoltán u. 4.\",\"LocationDescription\":\"Szombathelyi Gomba és Gyógynövénygyűjtő Klub\",\"Availability\":\"minden hónap 2. péntekén                                          18-20 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"222-1204-170313-0065\",\"Name\":\"Kalauz József\",\"ZipCode\":\"9700\",\"City\":\"Szombathely\",\"StreetAddress\":\"Kodály Zoltán u. 4.\",\"LocationDescription\":\"Szombathelyi Gomba és Gyógynövénygyűjtő Klub\",\"Availability\":\"minden hónap 2. péntekén                                          18-20 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 190,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"Táborok, Túrák                    Kiállítások                                                                                 Előadások\",\"Availability\":\"Előre egyeztetett időpontokban                                        tel: 20/560-13-18\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"222-1204-170313-0065\",\"Name\":\"Kalauz József\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"Táborok, Túrák                    Kiállítások                                                                                 Előadások\",\"Availability\":\"Előre egyeztetett időpontokban                                        tel: 20/560-13-18\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 191,
@@ -617,7 +617,7 @@
     },
     {
         "Row": 194,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"6100\",\"City\":\"Kiskunfélegyháza\",\"StreetAddress\":\"XI. ker. 129.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"kedd: 8-18 óráig                                      péntek: 8-18 óráig                                vasárnap: 8-18 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"331-1200-170312-0068\",\"Name\":\"Kovács Ferenc\",\"ZipCode\":\"6100\",\"City\":\"Kiskunfélegyháza\",\"StreetAddress\":\"XI. ker. 129.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"kedd: 8-18 óráig                                      péntek: 8-18 óráig                                vasárnap: 8-18 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 195,
@@ -641,7 +641,7 @@
     },
     {
         "Row": 200,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"-\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"túrák, tanfolyamok, előadások különböző helyszínei\",\"Availability\":\"előre egyeztetett időpontban\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"222-0204-170412-0073\",\"Name\":\"dr. Török István\",\"ZipCode\":\"-\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"túrák, tanfolyamok, előadások különböző helyszínei\",\"Availability\":\"előre egyeztetett időpontban\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 201,
@@ -649,11 +649,11 @@
     },
     {
         "Row": 202,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"2000\",\"City\":\"Szentendre\",\"StreetAddress\":\"\",\"LocationDescription\":\"Bükkös patak parti piac\",\"Availability\":\"szerda 6- 12 óráig                               szombat 6-12 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"212-1200-170507-0074\",\"Name\":\"Pálfalvi György\",\"ZipCode\":\"2000\",\"City\":\"Szentendre\",\"StreetAddress\":\"\",\"LocationDescription\":\"Bükkös patak parti piac\",\"Availability\":\"szerda 6- 12 óráig                               szombat 6-12 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 203,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"2500\",\"City\":\"Esztergom\",\"StreetAddress\":\"Árok u. 10.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"telefonos egyeztetés alapján                   tel.:20/328-06-98\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"212-1200-170507-0074\",\"Name\":\"Pálfalvi György\",\"ZipCode\":\"2500\",\"City\":\"Esztergom\",\"StreetAddress\":\"Árok u. 10.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"telefonos egyeztetés alapján                   tel.:20/328-06-98\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 204,
@@ -661,11 +661,11 @@
     },
     {
         "Row": 205,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"3994\",\"City\":\"Bózsva\",\"StreetAddress\":\"Esze Tamás u. 68.\",\"LocationDescription\":\"\",\"Availability\":\"előre egyeztetett időpontban\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"311-0230-170503-0075\",\"Name\":\"Krausz Istvánné\",\"ZipCode\":\"3994\",\"City\":\"Bózsva\",\"StreetAddress\":\"Esze Tamás u. 68.\",\"LocationDescription\":\"\",\"Availability\":\"előre egyeztetett időpontban\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 206,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"3994\",\"City\":\"Pálháza\",\"StreetAddress\":\"Dózsa György u. 153.\",\"LocationDescription\":\"Hegyközi Gombász Egyesület\",\"Availability\":\"szezonálisan                                      délelött: 8-12 óráig                               délután 16-20 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"311-0230-170503-0075\",\"Name\":\"Krausz Istvánné\",\"ZipCode\":\"3994\",\"City\":\"Pálháza\",\"StreetAddress\":\"Dózsa György u. 153.\",\"LocationDescription\":\"Hegyközi Gombász Egyesület\",\"Availability\":\"szezonálisan                                      délelött: 8-12 óráig                               délután 16-20 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 207,
@@ -685,7 +685,7 @@
     },
     {
         "Row": 211,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"2212\",\"City\":\"Csévharaszt\",\"StreetAddress\":\"Kossuth L. u. 106.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"Előzetes telefonos \\negyeztetés alapján\\ntel.:06-30/851 30 29\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-0230-170309-0079\",\"Name\":\"Szabó Attila László\",\"ZipCode\":\"2212\",\"City\":\"Csévharaszt\",\"StreetAddress\":\"Kossuth L. u. 106.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"Előzetes telefonos \\negyeztetés alapján\\ntel.:06-30/851 30 29\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 212,
@@ -693,7 +693,7 @@
     },
     {
         "Row": 213,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"–\",\"Availability\":\"Előzetes telefonos \\negyeztetés alapján\\ntel.:06-30/224 42 40\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"231-1200-141009-0080\",\"Name\":\"Bársony Kornél\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"–\",\"Availability\":\"Előzetes telefonos \\negyeztetés alapján\\ntel.:06-30/224 42 40\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 214,
@@ -705,7 +705,7 @@
     },
     {
         "Row": 216,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"3144\",\"City\":\"Mátranovák\",\"StreetAddress\":\"0117 hrsz.\",\"LocationDescription\":\"Kubipilz Kft. gombafeldolgozó\",\"Availability\":\"munkabeosztás szerint\\n8-16 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"313-0010-170111-0082\",\"Name\":\"Juhászné Boros Katalin\",\"ZipCode\":\"3144\",\"City\":\"Mátranovák\",\"StreetAddress\":\"0117 hrsz.\",\"LocationDescription\":\"Kubipilz Kft. gombafeldolgozó\",\"Availability\":\"munkabeosztás szerint\\n8-16 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 217,
@@ -713,7 +713,7 @@
     },
     {
         "Row": 218,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"3144\",\"City\":\"Mátranovák\",\"StreetAddress\":\"0117 hrsz.\",\"LocationDescription\":\"Kubipilz Kft. gombafeldolgozó\",\"Availability\":\"munkabeosztás szerint\\n8-16 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"313-0010-170111-0083\",\"Name\":\"Kuborczik Pál\",\"ZipCode\":\"3144\",\"City\":\"Mátranovák\",\"StreetAddress\":\"0117 hrsz.\",\"LocationDescription\":\"Kubipilz Kft. gombafeldolgozó\",\"Availability\":\"munkabeosztás szerint\\n8-16 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 219,
@@ -721,7 +721,7 @@
     },
     {
         "Row": 220,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"Mátrai Gombász Egyesület által szervezett túrák különböző helyszínei\",\"Availability\":\"Túrák alkalmával\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"312-0230-170613-0084\",\"Name\":\"Szabó Csaba\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"Mátrai Gombász Egyesület által szervezett túrák különböző helyszínei\",\"Availability\":\"Túrák alkalmával\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 221,
@@ -733,7 +733,7 @@
     },
     {
         "Row": 223,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"2800\",\"City\":\"Tatabánya\",\"StreetAddress\":\"Győri út\",\"LocationDescription\":\"Vásárcsarnok\",\"Availability\":\"előzetes egyeztetés alapján\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"212-1200-140521-0086\",\"Name\":\"Katona Imréné\",\"ZipCode\":\"2800\",\"City\":\"Tatabánya\",\"StreetAddress\":\"Győri út\",\"LocationDescription\":\"Vásárcsarnok\",\"Availability\":\"előzetes egyeztetés alapján\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 224,
@@ -757,7 +757,7 @@
     },
     {
         "Row": 229,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"5600\",\"City\":\"Békéscsaba\",\"StreetAddress\":\"Lencsési u. 35-37.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"előzetes telefonos egyeztetés alapján tel.: 06-30/279-9419\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"332-1200-130518-0091\",\"Name\":\"Selmeczi László\",\"ZipCode\":\"5600\",\"City\":\"Békéscsaba\",\"StreetAddress\":\"Lencsési u. 35-37.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"előzetes telefonos egyeztetés alapján tel.: 06-30/279-9419\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 230,
@@ -785,7 +785,7 @@
     },
     {
         "Row": 237,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"túrák, fesztiválok, rendezvények\",\"Availability\":\"hétvégén és ünnepnapokon, telefonos egyeztetés alapján: tel.:0630/2302859\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-0230-170903-0097\",\"Name\":\"Liscsinszky Miklós\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"túrák, fesztiválok, rendezvények\",\"Availability\":\"hétvégén és ünnepnapokon, telefonos egyeztetés alapján: tel.:0630/2302859\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 238,
@@ -793,11 +793,11 @@
     },
     {
         "Row": 239,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"9733\",\"City\":\"Horvátzsidány\",\"StreetAddress\":\"Csepregi u. 5.\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"223-0200-170906-0098\",\"Name\":\"Dr. Gyarmati Lenke\",\"ZipCode\":\"9733\",\"City\":\"Horvátzsidány\",\"StreetAddress\":\"Csepregi u. 5.\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 240,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"ismeretterjesztő előadások, kiállítások, rendezvények, túrák\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"223-0200-170906-0098\",\"Name\":\"Dr. Gyarmati Lenke\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"ismeretterjesztő előadások, kiállítások, rendezvények, túrák\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 242,
@@ -805,7 +805,7 @@
     },
     {
         "Row": 243,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"rendezvények, túrák alkalmával\",\"Availability\":\"előre egyeztetett időpontban tel.:0630/8248646\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"231-1200-130906-0100\",\"Name\":\"Orbán Imre\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"rendezvények, túrák alkalmával\",\"Availability\":\"előre egyeztetett időpontban tel.:0630/8248646\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 244,
@@ -817,11 +817,11 @@
     },
     {
         "Row": 246,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"gombaszezonban, túrák, szervezett vidéki gombászkirándulások alkalmával\",\"Availability\":\"alkalmanként\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"231-1200-130829-0102\",\"Name\":\"Jégl Gizella\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"Különböző helyszíneken\",\"LocationDescription\":\"gombaszezonban, túrák, szervezett vidéki gombászkirándulások alkalmával\",\"Availability\":\"alkalmanként\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 247,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"7622\",\"City\":\"Pécs\",\"StreetAddress\":\"Bajcsy-Zsililszky u. 25.\",\"LocationDescription\":\"Pécs Holding Zrt. Vásárcsarnok\",\"Availability\":\"eseti megbízás alapján\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"231-1200-130829-0102\",\"Name\":\"Jégl Gizella\",\"ZipCode\":\"7622\",\"City\":\"Pécs\",\"StreetAddress\":\"Bajcsy-Zsililszky u. 25.\",\"LocationDescription\":\"Pécs Holding Zrt. Vásárcsarnok\",\"Availability\":\"eseti megbízás alapján\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 248,
@@ -849,11 +849,11 @@
     },
     {
         "Row": 254,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"2019-10-24\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-0004-170927-0108\",\"Name\":\"Szentmiklósi Zsófia\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"2019-10-24\"}"
     },
     {
         "Row": 255,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"2019-10-24\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-0004-170927-0108\",\"Name\":\"Szentmiklósi Zsófia\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"2019-10-24\"}"
     },
     {
         "Row": 256,
@@ -881,7 +881,7 @@
     },
     {
         "Row": 262,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"4400\",\"City\":\"Nyíregyháza\",\"StreetAddress\":\"Jósika Miklós u. 13.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"előzetes egyeztetés alapján, folyamatosan 8-22 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"323-1200-170808-0116\",\"Name\":\"Lakatos István\",\"ZipCode\":\"4400\",\"City\":\"Nyíregyháza\",\"StreetAddress\":\"Jósika Miklós u. 13.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"előzetes egyeztetés alapján, folyamatosan 8-22 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 263,
@@ -905,11 +905,11 @@
     },
     {
         "Row": 268,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"2626\",\"City\":\"Nagymaros\",\"StreetAddress\":\"Fehér hegy 23.\",\"LocationDescription\":\"lakás\",\"Availability\":\"telefonos egyeztetéssel egész évben tel.: 0620/9846-044\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-1200-171123-0121\",\"Name\":\"Békefi Andrásné\",\"ZipCode\":\"2626\",\"City\":\"Nagymaros\",\"StreetAddress\":\"Fehér hegy 23.\",\"LocationDescription\":\"lakás\",\"Availability\":\"telefonos egyeztetéssel egész évben tel.: 0620/9846-044\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 269,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"2025\",\"City\":\"Visegrád\",\"StreetAddress\":\"Mogyoróhegy\",\"LocationDescription\":\"Erdei Művelődés háza\",\"Availability\":\"telefonos egyeztetéssel munkanapokon egész évben tel.: 0620/9846-044\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-1200-171123-0121\",\"Name\":\"Békefi Andrásné\",\"ZipCode\":\"2025\",\"City\":\"Visegrád\",\"StreetAddress\":\"Mogyoróhegy\",\"LocationDescription\":\"Erdei Művelődés háza\",\"Availability\":\"telefonos egyeztetéssel munkanapokon egész évben tel.: 0620/9846-044\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 270,
@@ -929,23 +929,23 @@
     },
     {
         "Row": 274,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"9200\",\"City\":\"Mosonmagyaróvár\",\"StreetAddress\":\"Fő u. 11.\",\"LocationDescription\":\"városháza\",\"Availability\":\"hétfő-csütörtök 8-16 óráig, péntek 8-12 óráig előzetes telefonos egyeztetéssel tel.: 0670/339-8003\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"221-1200-171211-0125\",\"Name\":\"Cseh András\",\"ZipCode\":\"9200\",\"City\":\"Mosonmagyaróvár\",\"StreetAddress\":\"Fő u. 11.\",\"LocationDescription\":\"városháza\",\"Availability\":\"hétfő-csütörtök 8-16 óráig, péntek 8-12 óráig előzetes telefonos egyeztetéssel tel.: 0670/339-8003\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 275,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"9200\",\"City\":\"Mosonmagyaróvár\",\"StreetAddress\":\"Mosonyi M. u. 53.\",\"LocationDescription\":\"lakás\",\"Availability\":\"egész évben, előzetes telefonos egyeztetéssel tel.: 0670/339-8003\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"221-1200-171211-0125\",\"Name\":\"Cseh András\",\"ZipCode\":\"9200\",\"City\":\"Mosonmagyaróvár\",\"StreetAddress\":\"Mosonyi M. u. 53.\",\"LocationDescription\":\"lakás\",\"Availability\":\"egész évben, előzetes telefonos egyeztetéssel tel.: 0670/339-8003\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 276,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"2019-10-24\"}"
+        "JSON": "{\"RegistrationNumber\":\"221-1200-171211-0125\",\"Name\":\"Cseh András\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"2019-10-24\"}"
     },
     {
         "Row": 277,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"2019-10-24\"}"
+        "JSON": "{\"RegistrationNumber\":\"221-1200-171211-0125\",\"Name\":\"Cseh András\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"2019-10-24\"}"
     },
     {
         "Row": 278,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"2018-02-13\"}"
+        "JSON": "{\"RegistrationNumber\":\"221-1200-171211-0125\",\"Name\":\"Cseh András\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"2018-02-13\"}"
     },
     {
         "Row": 279,
@@ -953,23 +953,23 @@
     },
     {
         "Row": 280,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-230409-0128\",\"Name\":\"Vig Árpád\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 281,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház utcai Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-230409-0128\",\"Name\":\"Vig Árpád\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház utcai Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 282,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-230409-0128\",\"Name\":\"Vig Árpád\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 283,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-230409-0128\",\"Name\":\"Vig Árpád\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 284,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-230409-0128\",\"Name\":\"Vig Árpád\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 285,
@@ -997,7 +997,7 @@
     },
     {
         "Row": 291,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"különböző helyszíneken, tanfolyamok, túrák, kirándulások\",\"Availability\":\"előzetes telefonos egyeztetés alapján tel.: 0670/3097582\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"312-1200-170510-0134\",\"Name\":\"Bakos András\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"különböző helyszíneken, tanfolyamok, túrák, kirándulások\",\"Availability\":\"előzetes telefonos egyeztetés alapján tel.: 0670/3097582\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 292,
@@ -1037,7 +1037,7 @@
     },
     {
         "Row": 301,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"4080\",\"City\":\"Hajdúnánás\",\"StreetAddress\":\"Kossuth utca\",\"LocationDescription\":\"piac tér\",\"Availability\":\"Szombatonként 8-12 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"321-1200-180220-0143\",\"Name\":\"Médi Erzsébet\",\"ZipCode\":\"4080\",\"City\":\"Hajdúnánás\",\"StreetAddress\":\"Kossuth utca\",\"LocationDescription\":\"piac tér\",\"Availability\":\"Szombatonként 8-12 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 302,
@@ -1061,7 +1061,7 @@
     },
     {
         "Row": 307,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"különböző helyszíneken\",\"Availability\":\"előzetes telefonos egyeztetés alapján tel.: 0630/476-5307\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"231-0200-170516-0148\",\"Name\":\"Őze István\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"különböző helyszíneken\",\"Availability\":\"előzetes telefonos egyeztetés alapján tel.: 0630/476-5307\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 308,
@@ -1073,11 +1073,11 @@
     },
     {
         "Row": 310,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"3532\",\"City\":\"Miskolc\",\"StreetAddress\":\"Daru u. 1.\",\"LocationDescription\":\"feldolgozó üzem\",\"Availability\":\"egész évben folyamatosan munkabeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"313-0230-180517-0150\",\"Name\":\"Koszty Gyula\",\"ZipCode\":\"3532\",\"City\":\"Miskolc\",\"StreetAddress\":\"Daru u. 1.\",\"LocationDescription\":\"feldolgozó üzem\",\"Availability\":\"egész évben folyamatosan munkabeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 311,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"4264\",\"City\":\"Nyírábrány\",\"StreetAddress\":\"Fekete rét 1.\",\"LocationDescription\":\"feldolgozó üzem\",\"Availability\":\"egész évben folyamatosan munkabeosztás szerint\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"313-0230-180517-0150\",\"Name\":\"Koszty Gyula\",\"ZipCode\":\"4264\",\"City\":\"Nyírábrány\",\"StreetAddress\":\"Fekete rét 1.\",\"LocationDescription\":\"feldolgozó üzem\",\"Availability\":\"egész évben folyamatosan munkabeosztás szerint\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 312,
@@ -1085,7 +1085,7 @@
     },
     {
         "Row": 313,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"2019-10-24\"}"
+        "JSON": "{\"RegistrationNumber\":\"312-1200-180517-0151\",\"Name\":\"Korózs Zsuzsanna\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"\",\"Availability\":\"\",\"LastChangeDate\":\"2019-10-24\"}"
     },
     {
         "Row": 314,
@@ -1105,7 +1105,7 @@
     },
     {
         "Row": 318,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások\",\"Availability\":\"előzetes telefonos egyeztetés alapján tel.: 0630/200-1519\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1200-180503-0156\",\"Name\":\"Bugyik Imre\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások\",\"Availability\":\"előzetes telefonos egyeztetés alapján tel.: 0630/200-1519\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 319,
@@ -1117,7 +1117,7 @@
     },
     {
         "Row": 321,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások\",\"Availability\":\"előzetes telefonos egyeztetés alapján tel.: 0630/200-1519\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-0200-171016-0158\",\"Name\":\"Nyerkiné Imelyi Györgyi\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások\",\"Availability\":\"előzetes telefonos egyeztetés alapján tel.: 0630/200-1519\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 322,
@@ -1125,15 +1125,15 @@
     },
     {
         "Row": 323,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"7150\",\"City\":\"Bonyhád\",\"StreetAddress\":\"Forberger u.\",\"LocationDescription\":\"Városi piac\",\"Availability\":\"Május 1. és október 31. között\\nkedd, péntek\\n6-10 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"231-1200-180729-0159\",\"Name\":\"Deák Attila\",\"ZipCode\":\"7150\",\"City\":\"Bonyhád\",\"StreetAddress\":\"Forberger u.\",\"LocationDescription\":\"Városi piac\",\"Availability\":\"Május 1. és október 31. között\\nkedd, péntek\\n6-10 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 324,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"7349\",\"City\":\"Szászvár\",\"StreetAddress\":\"Juhász Gyula u. 27.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\ntel.: 0630/5303253\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"231-1200-180729-0159\",\"Name\":\"Deák Attila\",\"ZipCode\":\"7349\",\"City\":\"Szászvár\",\"StreetAddress\":\"Juhász Gyula u. 27.\",\"LocationDescription\":\"Lakás\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\ntel.: 0630/5303253\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 325,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\ntel.: 0630/5303253\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"231-1200-180729-0159\",\"Name\":\"Deák Attila\",\"ZipCode\":\"–\",\"City\":\"–\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\ntel.: 0630/5303253\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 326,
@@ -1141,7 +1141,7 @@
     },
     {
         "Row": 327,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\ntel.: 0630/5222617\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"311-0004-150614-0160\",\"Name\":\"Szegedi Zsolt Viktor\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\ntel.: 0630/5222617\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 328,
@@ -1153,11 +1153,11 @@
     },
     {
         "Row": 330,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1125\",\"City\":\"Budapest\",\"StreetAddress\":\"Galgóczy u. 63.\",\"LocationDescription\":\"–\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\ntel.: 0630/956-1076\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-0204-171108-0162\",\"Name\":\"Makay Attila Zoltán\",\"ZipCode\":\"1125\",\"City\":\"Budapest\",\"StreetAddress\":\"Galgóczy u. 63.\",\"LocationDescription\":\"–\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\ntel.: 0630/956-1076\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 331,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-0204-171108-0162\",\"Name\":\"Makay Attila Zoltán\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 332,
@@ -1173,23 +1173,23 @@
     },
     {
         "Row": 335,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-1200-180924-0165\",\"Name\":\"Strausz Pál\",\"ZipCode\":\"1117\",\"City\":\"Budapest\",\"StreetAddress\":\"Kőrösy J. u.7-9\",\"LocationDescription\":\"Fehérvári úti Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 336,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház utcai Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-1200-180924-0165\",\"Name\":\"Strausz Pál\",\"ZipCode\":\"1035\",\"City\":\"Budapest\",\"StreetAddress\":\"Kórház u. 37-41.\",\"LocationDescription\":\"Kórház utcai Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 337,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-1200-180924-0165\",\"Name\":\"Strausz Pál\",\"ZipCode\":\"1084\",\"City\":\"Budapest\",\"StreetAddress\":\"Rákóczi tér 7-9.\",\"LocationDescription\":\"Rákóczi téri Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 338,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-1200-180924-0165\",\"Name\":\"Strausz Pál\",\"ZipCode\":\"1147\",\"City\":\"Budapest\",\"StreetAddress\":\"Csömöri út 9-11.\",\"LocationDescription\":\"Bosnyák téri Vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 339,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-1200-180924-0165\",\"Name\":\"Strausz Pál\",\"ZipCode\":\"1119\",\"City\":\"Budapest\",\"StreetAddress\":\"Tétényi út 63.\",\"LocationDescription\":\"Tétényi úti vásárcsarnok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 340,
@@ -1197,7 +1197,7 @@
     },
     {
         "Row": 341,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"2840\",\"City\":\"Oroszlány\",\"StreetAddress\":\"Táncsics u. 1.\",\"LocationDescription\":\"Bányász klub\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"212-1200-181031-0166\",\"Name\":\"Gönczi Zoltánné\",\"ZipCode\":\"2840\",\"City\":\"Oroszlány\",\"StreetAddress\":\"Táncsics u. 1.\",\"LocationDescription\":\"Bányász klub\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 342,
@@ -1209,7 +1209,7 @@
     },
     {
         "Row": 344,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján 0670/231-9592\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"211-1200-150611-0168\",\"Name\":\"Fődi Attila\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján 0670/231-9592\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 345,
@@ -1217,11 +1217,11 @@
     },
     {
         "Row": 346,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"8666\",\"City\":\"Somogyegres\",\"StreetAddress\":\"Kossuth u. 22.\",\"LocationDescription\":\"–\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0620/951-7754\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"232-0200-181015-0169\",\"Name\":\"Vrancsik Tibor\",\"ZipCode\":\"8666\",\"City\":\"Somogyegres\",\"StreetAddress\":\"Kossuth u. 22.\",\"LocationDescription\":\"–\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0620/951-7754\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 347,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"232-0200-181015-0169\",\"Name\":\"Vrancsik Tibor\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 349,
@@ -1253,11 +1253,11 @@
     },
     {
         "Row": 356,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"7100\",\"City\":\"Szekszárd\",\"StreetAddress\":\"Kölcsey ltp. 3.\",\"LocationDescription\":\"–\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"232-0200-171019-0177\",\"Name\":\"Takács Krisztián\",\"ZipCode\":\"7100\",\"City\":\"Szekszárd\",\"StreetAddress\":\"Kölcsey ltp. 3.\",\"LocationDescription\":\"–\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 357,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1145\",\"City\":\"Budapest\",\"StreetAddress\":\"Amerikai út 22.\",\"LocationDescription\":\"–\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"232-0200-171019-0177\",\"Name\":\"Takács Krisztián\",\"ZipCode\":\"1145\",\"City\":\"Budapest\",\"StreetAddress\":\"Amerikai út 22.\",\"LocationDescription\":\"–\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 358,
@@ -1265,7 +1265,7 @@
     },
     {
         "Row": 359,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"4220\",\"City\":\"Hajdúböszörmény\",\"StreetAddress\":\"Korvin János krt. 21.\",\"LocationDescription\":\"–\",\"Availability\":\"hetfőtől vasárnapig\\n16-18 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"321-1200-180121-0178\",\"Name\":\"Virág József\",\"ZipCode\":\"4220\",\"City\":\"Hajdúböszörmény\",\"StreetAddress\":\"Korvin János krt. 21.\",\"LocationDescription\":\"–\",\"Availability\":\"hetfőtől vasárnapig\\n16-18 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 360,
@@ -1273,7 +1273,7 @@
     },
     {
         "Row": 361,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"3242\",\"City\":\"Parádsasvár\",\"StreetAddress\":\"Kossuth u. 7.\",\"LocationDescription\":\"–\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-0200-181219-0179\",\"Name\":\"Varju Sándor\",\"ZipCode\":\"3242\",\"City\":\"Parádsasvár\",\"StreetAddress\":\"Kossuth u. 7.\",\"LocationDescription\":\"–\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 362,
@@ -1281,7 +1281,7 @@
     },
     {
         "Row": 364,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0670/6004075\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"332-1200-171122-0180\",\"Name\":\"Kocziszky Andrea\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0670/6004075\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 365,
@@ -1289,11 +1289,11 @@
     },
     {
         "Row": 366,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1145\",\"City\":\"Budapest\",\"StreetAddress\":\"Amerikai út 74.\",\"LocationDescription\":\"–\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-0200-190129-0181\",\"Name\":\"Ács Tamás\",\"ZipCode\":\"1145\",\"City\":\"Budapest\",\"StreetAddress\":\"Amerikai út 74.\",\"LocationDescription\":\"–\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 367,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-0200-190129-0181\",\"Name\":\"Ács Tamás\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 369,
@@ -1305,7 +1305,7 @@
     },
     {
         "Row": 371,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"333-0200-150505-0184\",\"Name\":\"Kovács Zsolt\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 372,
@@ -1345,11 +1345,11 @@
     },
     {
         "Row": 382,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"3643\",\"City\":\"Dédestapolcsány\",\"StreetAddress\":\"Munkácsy u. 3.\",\"LocationDescription\":\"–\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"311-0204-190924-0193\",\"Name\":\"Pelles János\",\"ZipCode\":\"3643\",\"City\":\"Dédestapolcsány\",\"StreetAddress\":\"Munkácsy u. 3.\",\"LocationDescription\":\"–\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 383,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján, alkalmanként\\n0630/477-9822\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"311-0204-190924-0193\",\"Name\":\"Pelles János\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján, alkalmanként\\n0630/477-9822\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 384,
@@ -1357,7 +1357,7 @@
     },
     {
         "Row": 385,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0620/947-0619\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"311-0204-190922-0194\",\"Name\":\"Vadán László\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0620/947-0619\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 386,
@@ -1365,7 +1365,7 @@
     },
     {
         "Row": 387,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján alkalmanként\\n0630/413-54-18\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"311-0204-190922-0195\",\"Name\":\"dr. Rémiás Tibor\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján alkalmanként\\n0630/413-54-18\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 388,
@@ -1373,7 +1373,7 @@
     },
     {
         "Row": 389,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"311-0204-190930-0196\",\"Name\":\"Béres János\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 390,
@@ -1385,7 +1385,7 @@
     },
     {
         "Row": 392,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"232-0200-150922-0198\",\"Name\":\"Farkas Szilvia\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 395,
@@ -1393,7 +1393,7 @@
     },
     {
         "Row": 396,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"7300\",\"City\":\"Komló-Sikonda\",\"StreetAddress\":\"Fülemüle utca 38/A.\",\"LocationDescription\":\"–\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0630/302-3102\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"231-1200-191117-0200\",\"Name\":\"Mober Zoltán\",\"ZipCode\":\"7300\",\"City\":\"Komló-Sikonda\",\"StreetAddress\":\"Fülemüle utca 38/A.\",\"LocationDescription\":\"–\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0630/302-3102\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 397,
@@ -1413,7 +1413,7 @@
     },
     {
         "Row": 401,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"331-0200-181014-0204\",\"Name\":\"Timárné Horváth Szilvia\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 402,
@@ -1421,7 +1421,7 @@
     },
     {
         "Row": 403,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"3950\",\"City\":\"Sárospatak\",\"StreetAddress\":\"Hunyadi u. 45.\",\"LocationDescription\":\"–\",\"Availability\":\"alkalomszerűen, lőzetes telefonos egyeztetés alapján\\n0620/225-0463\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"311-1200-191201-0205\",\"Name\":\"Tuss István\",\"ZipCode\":\"3950\",\"City\":\"Sárospatak\",\"StreetAddress\":\"Hunyadi u. 45.\",\"LocationDescription\":\"–\",\"Availability\":\"alkalomszerűen, lőzetes telefonos egyeztetés alapján\\n0620/225-0463\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 404,
@@ -1429,7 +1429,7 @@
     },
     {
         "Row": 405,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"231-0204-191223-0206\",\"Name\":\"Mezei Attila\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 406,
@@ -1441,11 +1441,11 @@
     },
     {
         "Row": 408,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"8754\",\"City\":\"Galambok\",\"StreetAddress\":\"Rózsa u. 9.\",\"LocationDescription\":\"–\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0630/474-2130\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"223-1200-200108-0208\",\"Name\":\"Gál Sándor\",\"ZipCode\":\"8754\",\"City\":\"Galambok\",\"StreetAddress\":\"Rózsa u. 9.\",\"LocationDescription\":\"–\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0630/474-2130\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 409,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"223-1200-200108-0208\",\"Name\":\"Gál Sándor\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 411,
@@ -1457,15 +1457,15 @@
     },
     {
         "Row": 413,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"8380\",\"City\":\"Hévíz\",\"StreetAddress\":\"Széchenyi utca\",\"LocationDescription\":\"Hévíz piac\",\"Availability\":\"kedd 7-12 óráig\\ncsütörtök 12-18 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"223-1200-200115-0211\",\"Name\":\"Lázár Attila\",\"ZipCode\":\"8380\",\"City\":\"Hévíz\",\"StreetAddress\":\"Széchenyi utca\",\"LocationDescription\":\"Hévíz piac\",\"Availability\":\"kedd 7-12 óráig\\ncsütörtök 12-18 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 414,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"8315\",\"City\":\"Gyenesdiás\",\"StreetAddress\":\"728/60. hrsz\",\"LocationDescription\":\"Balatoni Hal-és Termelői Piac\",\"Availability\":\"szombat 14-18 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"223-1200-200115-0211\",\"Name\":\"Lázár Attila\",\"ZipCode\":\"8315\",\"City\":\"Gyenesdiás\",\"StreetAddress\":\"728/60. hrsz\",\"LocationDescription\":\"Balatoni Hal-és Termelői Piac\",\"Availability\":\"szombat 14-18 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 415,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"8360\",\"City\":\"Keszthely\",\"StreetAddress\":\"Csabagyöngye u. 44.\",\"LocationDescription\":\"–\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0630/204-2626\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"223-1200-200115-0211\",\"Name\":\"Lázár Attila\",\"ZipCode\":\"8360\",\"City\":\"Keszthely\",\"StreetAddress\":\"Csabagyöngye u. 44.\",\"LocationDescription\":\"–\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0630/204-2626\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 416,
@@ -1485,7 +1485,7 @@
     },
     {
         "Row": 420,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"4274\",\"City\":\"Hosszúpályi\",\"StreetAddress\":\"Gergely u. 4.\",\"LocationDescription\":\"–\",\"Availability\":\"munkabeosztás alapján\\n16-18 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"321-1200-160325-0215\",\"Name\":\"Szűcs Attila Albert\",\"ZipCode\":\"4274\",\"City\":\"Hosszúpályi\",\"StreetAddress\":\"Gergely u. 4.\",\"LocationDescription\":\"–\",\"Availability\":\"munkabeosztás alapján\\n16-18 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 421,
@@ -1497,7 +1497,7 @@
     },
     {
         "Row": 423,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"5720\",\"City\":\"Sarkad\",\"StreetAddress\":\"Dobó u. 5.\",\"LocationDescription\":\"–\",\"Availability\":\"hétvégenként 10-16 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"332-0200-160412-0217\",\"Name\":\"Nagy Sándor\",\"ZipCode\":\"5720\",\"City\":\"Sarkad\",\"StreetAddress\":\"Dobó u. 5.\",\"LocationDescription\":\"–\",\"Availability\":\"hétvégenként 10-16 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 424,
@@ -1521,7 +1521,7 @@
     },
     {
         "Row": 429,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"3200\",\"City\":\"Gyöngyös\",\"StreetAddress\":\"Pesti út 18.\",\"LocationDescription\":\"üzem\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"312-0030-200513-0222\",\"Name\":\"Göröcs Miklósné\",\"ZipCode\":\"3200\",\"City\":\"Gyöngyös\",\"StreetAddress\":\"Pesti út 18.\",\"LocationDescription\":\"üzem\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 430,
@@ -1529,7 +1529,7 @@
     },
     {
         "Row": 431,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"3200\",\"City\":\"Gyöngyös\",\"StreetAddress\":\"Pesti út 18.\",\"LocationDescription\":\"üzem\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"312-0030-200513-0223\",\"Name\":\"Göröcs Miklósné\",\"ZipCode\":\"3200\",\"City\":\"Gyöngyös\",\"StreetAddress\":\"Pesti út 18.\",\"LocationDescription\":\"üzem\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 432,
@@ -1553,11 +1553,11 @@
     },
     {
         "Row": 437,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"8991\",\"City\":\"Hottó\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Tehenészeti telep\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"223-0200-201028-0228\",\"Name\":\"Biczó András\",\"ZipCode\":\"8991\",\"City\":\"Hottó\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Tehenészeti telep\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 438,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, rendezvények, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"223-0200-201028-0228\",\"Name\":\"Biczó András\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, rendezvények, tanfolyamok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 439,
@@ -1569,7 +1569,7 @@
     },
     {
         "Row": 441,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"8448\",\"City\":\"Ajka\",\"StreetAddress\":\"Fő út 140.\",\"LocationDescription\":\"–\",\"Availability\":\"munkabeosztás alapján, folyamatosan                                                                                        8-16 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"213-1200-201110-0230\",\"Name\":\"Hiri László\",\"ZipCode\":\"8448\",\"City\":\"Ajka\",\"StreetAddress\":\"Fő út 140.\",\"LocationDescription\":\"–\",\"Availability\":\"munkabeosztás alapján, folyamatosan                                                                                        8-16 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 442,
@@ -1577,7 +1577,7 @@
     },
     {
         "Row": 443,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"alkalmanként, előzetes telefonos egyeztetés alapján                    0630/2542-201\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"212-0200-200305-0231\",\"Name\":\"Vrba Gabriella\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok\",\"Availability\":\"alkalmanként, előzetes telefonos egyeztetés alapján                    0630/2542-201\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 444,
@@ -1597,7 +1597,7 @@
     },
     {
         "Row": 448,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"9023\",\"City\":\"Győr\",\"StreetAddress\":\"Csaba utca 11.\",\"LocationDescription\":\"–\",\"Availability\":\"egész évben, előzetes telefonos egyeztetés alapján                               0630/2529-035\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"221-1200-191219-0235\",\"Name\":\"Szabó László\",\"ZipCode\":\"9023\",\"City\":\"Győr\",\"StreetAddress\":\"Csaba utca 11.\",\"LocationDescription\":\"–\",\"Availability\":\"egész évben, előzetes telefonos egyeztetés alapján                               0630/2529-035\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 449,
@@ -1605,7 +1605,7 @@
     },
     {
         "Row": 450,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján, alkalmanként\\n0670/2920-648\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-0200-191219-0236\",\"Name\":\"Kondor Viktor\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák kirándulások, tanfolyamok\",\"Availability\":\"előzetes telefonos egyeztetés alapján, alkalmanként\\n0670/2920-648\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 451,
@@ -1625,7 +1625,7 @@
     },
     {
         "Row": 455,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok, előadások, táborok, fesztiválok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"222-0200-161015-240\",\"Name\":\"Takács Attila\",\"ZipCode\":\"–\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"–\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok, előadások, táborok, fesztiválok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 456,
@@ -1645,11 +1645,11 @@
     },
     {
         "Row": 460,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"2890\",\"City\":\"Tata\",\"StreetAddress\":\"Piac tér\",\"LocationDescription\":\"piac\",\"Availability\":\"szombat 8-11 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"212-1200-170113-0244\",\"Name\":\"Alexy György\",\"ZipCode\":\"2890\",\"City\":\"Tata\",\"StreetAddress\":\"Piac tér\",\"LocationDescription\":\"piac\",\"Availability\":\"szombat 8-11 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 461,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"9023\",\"City\":\"Győr\",\"StreetAddress\":\"Hermann Ottó utca 25.\",\"LocationDescription\":\"vásárcsarnok\",\"Availability\":\"szerda 7-11 óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"212-1200-170113-0244\",\"Name\":\"Alexy György\",\"ZipCode\":\"9023\",\"City\":\"Győr\",\"StreetAddress\":\"Hermann Ottó utca 25.\",\"LocationDescription\":\"vásárcsarnok\",\"Availability\":\"szerda 7-11 óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 462,
@@ -1665,7 +1665,7 @@
     },
     {
         "Row": 465,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok, előadások, táborok, fesztiválok\",\"Availability\":\"előzetes telefonos egyeztetés alapján 0630/565-7479\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"231-1200-161124-0247\",\"Name\":\"Virág Richárd\",\"ZipCode\":\"\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok, előadások, táborok, fesztiválok\",\"Availability\":\"előzetes telefonos egyeztetés alapján 0630/565-7479\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 466,
@@ -1673,7 +1673,7 @@
     },
     {
         "Row": 467,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"József Attila u. 24/c\",\"LocationDescription\":\"-\",\"Availability\":\"előzetes telefonos egyeztetés alapján 06 74/680-791\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"233-1200-210127-0248\",\"Name\":\"Dolovai Béla\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"József Attila u. 24/c\",\"LocationDescription\":\"-\",\"Availability\":\"előzetes telefonos egyeztetés alapján 06 74/680-791\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 468,
@@ -1689,7 +1689,7 @@
     },
     {
         "Row": 471,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok, előadások, táborok, fesztiválok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"311-0200-200521-0251\",\"Name\":\"Dudás Anikó\",\"ZipCode\":\"\",\"City\":\"Különböző helyszíneken\",\"StreetAddress\":\"\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások, tanfolyamok, előadások, táborok, fesztiválok\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 472,
@@ -1729,7 +1729,7 @@
     },
     {
         "Row": 487,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"2623\",\"City\":\"Kismaros\",\"StreetAddress\":\"Harangvirág u. 23/B\",\"LocationDescription\":\"\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0620/918-2319\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-1200-210302-0260\",\"Name\":\"Császárné Erdélyi Katalin\",\"ZipCode\":\"2623\",\"City\":\"Kismaros\",\"StreetAddress\":\"Harangvirág u. 23/B\",\"LocationDescription\":\"\",\"Availability\":\"előzetes telefonos egyeztetés alapján\\n0620/918-2319\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 488,
@@ -1833,7 +1833,7 @@
     },
     {
         "Row": 514,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"333-0200-211108-0285\",\"Name\":\"Takács Ágnes\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"\",\"LocationDescription\":\"Különböző helyszíneken, túrák, kirándulások\",\"Availability\":\"\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 516,
@@ -1841,7 +1841,7 @@
     },
     {
         "Row": 517,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"Lahner Gy. U. 12.\",\"LocationDescription\":\"\",\"Availability\":\"előzetes telefonos egyeztetés alapján +36-30-496-2615\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"333-1200-211118-0287\",\"Name\":\"Sándor János Zoltán\",\"ZipCode\":\"\",\"City\":\"\",\"StreetAddress\":\"Lahner Gy. U. 12.\",\"LocationDescription\":\"\",\"Availability\":\"előzetes telefonos egyeztetés alapján +36-30-496-2615\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 518,
@@ -1973,11 +1973,11 @@
     },
     {
         "Row": 550,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"6100\",\"City\":\"Kiskunfélegyháza\",\"StreetAddress\":\"Katona J. u. 4/a\",\"LocationDescription\":\"Lakás\",\"Availability\":\"márciustól decemberig\\nszerda:14-18-óráig\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"321-1234-220109-0318\",\"Name\":\"Marcényi Csaba\",\"ZipCode\":\"6100\",\"City\":\"Kiskunfélegyháza\",\"StreetAddress\":\"Katona J. u. 4/a\",\"LocationDescription\":\"Lakás\",\"Availability\":\"márciustól decemberig\\nszerda:14-18-óráig\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 551,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"6100\",\"City\":\"Kiskunfélegyháza\",\"StreetAddress\":\"Fadrusz János u. 4.\",\"LocationDescription\":\"Városi Kórház\",\"Availability\":\"külön felkérésre \\negyeztetés alapján\\negész évben\\ntel.:06-30/6211046\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"321-1234-220109-0318\",\"Name\":\"Marcényi Csaba\",\"ZipCode\":\"6100\",\"City\":\"Kiskunfélegyháza\",\"StreetAddress\":\"Fadrusz János u. 4.\",\"LocationDescription\":\"Városi Kórház\",\"Availability\":\"külön felkérésre \\negyeztetés alapján\\negész évben\\ntel.:06-30/6211046\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 552,
@@ -2085,7 +2085,7 @@
     },
     {
         "Row": 578,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1183\",\"City\":\"Budapest\",\"StreetAddress\":\"Balassi Bálint u. 2-10-\",\"LocationDescription\":\"Lőrinci piac\",\"Availability\":\"keddtől szombatig 8:00-12:00\",\"LastChangeDate\":\"2018-02-21\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-1200-230208-344\",\"Name\":\"Márton Csaba\",\"ZipCode\":\"1183\",\"City\":\"Budapest\",\"StreetAddress\":\"Balassi Bálint u. 2-10-\",\"LocationDescription\":\"Lőrinci piac\",\"Availability\":\"keddtől szombatig 8:00-12:00\",\"LastChangeDate\":\"2018-02-21\"}"
     },
     {
         "Row": 579,
@@ -2185,7 +2185,7 @@
     },
     {
         "Row": 603,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"8230\",\"City\":\"Balatonfüred\",\"StreetAddress\":\"Köztársaság u. 18.\",\"LocationDescription\":\"\",\"Availability\":\"folyamatosan 14:00 és 18:00 óra között előzetes megbeszélés alapján. Tel.: 06-70-77-39-770)\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"213-1230-230731-0369\",\"Name\":\"Kelli Lajos\",\"ZipCode\":\"8230\",\"City\":\"Balatonfüred\",\"StreetAddress\":\"Köztársaság u. 18.\",\"LocationDescription\":\"\",\"Availability\":\"folyamatosan 14:00 és 18:00 óra között előzetes megbeszélés alapján. Tel.: 06-70-77-39-770)\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 604,
@@ -2205,11 +2205,11 @@
     },
     {
         "Row": 608,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"5135\",\"City\":\"Jászivány\",\"StreetAddress\":\"Fő u. 17.\",\"LocationDescription\":\"Truffleminers Kft. telephelye, 5135 Jászivány, Fő u. 17.\",\"Availability\":\"Folyamatosan egész évben, szerdán 12:00-17:00\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-0230-231003-0373\",\"Name\":\"Barcsai Tibor\",\"ZipCode\":\"5135\",\"City\":\"Jászivány\",\"StreetAddress\":\"Fő u. 17.\",\"LocationDescription\":\"Truffleminers Kft. telephelye, 5135 Jászivány, Fő u. 17.\",\"Availability\":\"Folyamatosan egész évben, szerdán 12:00-17:00\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 609,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"2216\",\"City\":\"Bénye\",\"StreetAddress\":\"Pilisi u. 9.\",\"LocationDescription\":\"\",\"Availability\":\"Folyamatosan egész évben,kedden és csütörtökön 16:00-18:00\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-0230-231003-0373\",\"Name\":\"Barcsai Tibor\",\"ZipCode\":\"2216\",\"City\":\"Bénye\",\"StreetAddress\":\"Pilisi u. 9.\",\"LocationDescription\":\"\",\"Availability\":\"Folyamatosan egész évben,kedden és csütörtökön 16:00-18:00\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 610,
@@ -2221,7 +2221,7 @@
     },
     {
         "Row": 612,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"2095\",\"City\":\"Plisszántó\",\"StreetAddress\":\"Béke u. 17\",\"LocationDescription\":\"\",\"Availability\":\"előzetes telefonos egyeztetés alapján\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"102-0230-231112-0375\",\"Name\":\"Nagy Krisztina\",\"ZipCode\":\"2095\",\"City\":\"Plisszántó\",\"StreetAddress\":\"Béke u. 17\",\"LocationDescription\":\"\",\"Availability\":\"előzetes telefonos egyeztetés alapján\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 613,
@@ -2341,7 +2341,7 @@
     },
     {
         "Row": 642,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"8419\",\"City\":\"Csesznek\",\"StreetAddress\":\"Vár út 7.\",\"LocationDescription\":\"\",\"Availability\":\"minden második hétvégén 9:00-18:00\",\"LastChangeDate\":\"2019-03-20\"}"
+        "JSON": "{\"RegistrationNumber\":\"221-0200-231011-0404\",\"Name\":\"Győri Krisztina\",\"ZipCode\":\"8419\",\"City\":\"Csesznek\",\"StreetAddress\":\"Vár út 7.\",\"LocationDescription\":\"\",\"Availability\":\"minden második hétvégén 9:00-18:00\",\"LastChangeDate\":\"2019-03-20\"}"
     },
     {
         "Row": 643,
@@ -2349,7 +2349,7 @@
     },
     {
         "Row": 644,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"7973\",\"City\":\"Teklafalu\",\"StreetAddress\":\"Fő u.101\",\"LocationDescription\":\"lakás\",\"Availability\":\"előzetes telefonos egyeztetés alapján tel.: 06-70-7796711\",\"LastChangeDate\":\"2019-03-20\"}"
+        "JSON": "{\"RegistrationNumber\":\"231-0230-240311-0405\",\"Name\":\"Bognárné Percze Gabriella\",\"ZipCode\":\"7973\",\"City\":\"Teklafalu\",\"StreetAddress\":\"Fő u.101\",\"LocationDescription\":\"lakás\",\"Availability\":\"előzetes telefonos egyeztetés alapján tel.: 06-70-7796711\",\"LastChangeDate\":\"2019-03-20\"}"
     },
     {
         "Row": 645,
@@ -2497,7 +2497,7 @@
     },
     {
         "Row": 681,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1902-12-26\",\"City\":\"Budapest\",\"StreetAddress\":\"Hurok u. 5 6/1.\",\"LocationDescription\":\"lakás, túrák, képzések, táborok\",\"Availability\":\"előre egyeztetett időpontban Tel.: 06-70-383-5370\",\"LastChangeDate\":\"\"}"
+        "JSON": "{\"RegistrationNumber\":\"101-1204-241211-0451\",\"Name\":\"Fedor Ilona\",\"ZipCode\":\"1902-12-26\",\"City\":\"Budapest\",\"StreetAddress\":\"Hurok u. 5 6/1.\",\"LocationDescription\":\"lakás, túrák, képzések, táborok\",\"Availability\":\"előre egyeztetett időpontban Tel.: 06-70-383-5370\",\"LastChangeDate\":\"\"}"
     },
     {
         "Row": 682,
@@ -2529,11 +2529,11 @@
     },
     {
         "Row": 689,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1922-11-20\",\"City\":\"Keszthely\",\"StreetAddress\":\"Csabagyöngye u. 44.\",\"LocationDescription\":\"\",\"Availability\":\"telefonos egyeztetés alapján T.: 06-30-204-2626\",\"LastChangeDate\":\"2020-02-12\"}"
+        "JSON": "{\"RegistrationNumber\":\"223-1204-250128-0458\",\"Name\":\"Lázár Attila\",\"ZipCode\":\"1922-11-20\",\"City\":\"Keszthely\",\"StreetAddress\":\"Csabagyöngye u. 44.\",\"LocationDescription\":\"\",\"Availability\":\"telefonos egyeztetés alapján T.: 06-30-204-2626\",\"LastChangeDate\":\"2020-02-12\"}"
     },
     {
         "Row": 690,
-        "JSON": "{\"RegistrationNumber\":\"\",\"Name\":\"\",\"ZipCode\":\"1922-10-06\",\"City\":\"Gyenesdiás\",\"StreetAddress\":\"728/60 hrs\",\"LocationDescription\":\"\",\"Availability\":\"piaci igény szerint, túrákon\",\"LastChangeDate\":\"2020-02-12\"}"
+        "JSON": "{\"RegistrationNumber\":\"223-1204-250128-0458\",\"Name\":\"Lázár Attila\",\"ZipCode\":\"1922-10-06\",\"City\":\"Gyenesdiás\",\"StreetAddress\":\"728/60 hrs\",\"LocationDescription\":\"\",\"Availability\":\"piaci igény szerint, túrákon\",\"LastChangeDate\":\"2020-02-12\"}"
     },
     {
         "Row": 691,
