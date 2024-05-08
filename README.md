@@ -3,7 +3,9 @@ Parsed form of the Government Office's registry Excel file containing the data o
 
 # source file
 The original input file is always included in OriginalInput\Latest. The old ones are in OriginalInput\History
-It is downloaded from [this location at the Government Office server](https://www.kormanyhivatal.hu/download/c/5f/16000/GOMBA-szakellen%C5%91r%20NYILV%C3%81NTART%C3%81S_202006.xlsx).
+
+It can be downloaded from ever-changing locations 
+This actual one is from [this location at the Pest County Government Office server](https://www.kormanyhivatal.hu/hu/pest/szervezeti-egysegek-elerhetosegei/elelmiszerlanc-biztonsag-foldhivatali-noveny-es-talajvedelmi-erdeszeti-foosztaly/felugyeleti-osztaly).
 
 You can find the ever latest version [with this Google search](https://www.google.com/search?q=kormanyhivatal+gombaszakellen%C5%91r%C3%B6k+list%C3%A1ja)
 The first result will be the latest Excel file.
