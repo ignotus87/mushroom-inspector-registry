@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<AlteryxDocument yxmdVer="2022.1">
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2023.1">
   <Nodes>
     <Node ToolID="4">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
@@ -20,9 +20,6 @@
 Query=&lt;List of Sheet Names&gt;</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="Sheet Names" size="31" source="File: C:\Alteryx\Book1.xlsx|||&lt;List of Sheet Names&gt;" type="V_WString" />
@@ -233,9 +230,6 @@ FileName=FileName
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output86">
           <RecordInfo>
             <Field name="cell_name" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
@@ -347,6 +341,7 @@ FileName=FileName
         <PreviousWorkflowId value="8d3d9d0a-2f8f-427d-8258-f33d82179baf" />
         <OriginWorkflowId value="ae439255-131d-4694-9c98-43b9c7debe3c" />
       </Telemetry>
+      <PlatformWorkflowId value="" />
     </MetaInfo>
     <Events>
       <Enabled value="False" />
@@ -416,7 +411,11 @@ FileName=FileName
       <Wiz_CustomHelp value="False" />
       <Wiz_CustomGraphic value="False" />
       <Wiz_ShowOutput value="True" />
-      <Wiz_OpenOutputTools />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="25" Selected="True" />
+        <Tool ToolId="26" Selected="True" />
+        <Tool ToolId="42" Selected="True" />
+      </Wiz_OpenOutputTools>
       <Wiz_OutputMessage />
       <Wiz_NoOutputFilesMessage />
       <Wiz_ChainRunWizard />
