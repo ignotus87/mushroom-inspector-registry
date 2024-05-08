@@ -47,7 +47,7 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\hu2r0240\AppData\Local\Temp\Engine_59592_83fe033e25b2814781d1ae77ec51e5fc_\Engine_59592_730c0335cda5db418835867b42db7b82~.yxdb</TempFile>
+          <TempFile>C:\Users\hu2r0240\AppData\Local\Temp\Engine_37268_199f74efc7789144bae21634cc095fb2_\Engine_37268_9e153ffeb9962f49b6c7000815ec0e42~.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -139,7 +139,7 @@
     </Node>
     <Node ToolID="38">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-        <Position x="1638" y="560" />
+        <Position x="1482" y="498" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -161,6 +161,9 @@
           <DefaultAnnotationText>output.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
     </Node>
@@ -252,14 +255,14 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <File MaxRecords="" FileFormat="0">C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\Output\output.csv</File>
+          <File MaxRecords="" FileFormat="0">C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\Output\json-output.csv</File>
           <Passwords />
           <Disable>False</Disable>
           <FormatSpecificOptions>
             <LineEndStyle>CRLF</LineEndStyle>
             <Delimeter>\0</Delimeter>
             <ForceQuotes>False</ForceQuotes>
-            <HeaderRow>True</HeaderRow>
+            <HeaderRow>False</HeaderRow>
             <CodePage>65001</CodePage>
             <WriteBOM>True</WriteBOM>
           </FormatSpecificOptions>
@@ -267,7 +270,7 @@
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
-          <DefaultAnnotationText>output.csv</DefaultAnnotationText>
+          <DefaultAnnotationText>json-output.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
         <Dependencies>
@@ -569,13 +572,16 @@ ENDIF</DefaultAnnotationText>
         <Configuration>
           <OutputConfiguration>
             <Configuration>
-              <File FileFormat="19" MaxRecords="">c:\tmp\CopyTemplate.cmd</File>
+              <File MaxRecords="" FileFormat="0">%temp%\CopyTemplate.bat</File>
               <Passwords />
               <Disable>False</Disable>
               <FormatSpecificOptions>
-                <NoSpatialIndex>False</NoSpatialIndex>
-                <SaveSource>True</SaveSource>
-                <WriteCompatibleVersion>False</WriteCompatibleVersion>
+                <LineEndStyle>CRLF</LineEndStyle>
+                <Delimeter>\0</Delimeter>
+                <ForceQuotes>False</ForceQuotes>
+                <HeaderRow>False</HeaderRow>
+                <CodePage>28591</CodePage>
+                <WriteBOM>True</WriteBOM>
               </FormatSpecificOptions>
               <MultiFile value="False" />
             </Configuration>
@@ -583,7 +589,7 @@ ENDIF</DefaultAnnotationText>
           <InputConfiguration>
             <Configuration />
           </InputConfiguration>
-          <ProgramName>c:\tmp\CopyTemplate.cmd</ProgramName>
+          <ProgramName>%temp%\CopyTemplate.bat</ProgramName>
           <Arguments />
           <WorkingDir />
           <RunMinimized value="False" />
@@ -591,7 +597,7 @@ ENDIF</DefaultAnnotationText>
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
-          <DefaultAnnotationText>Run CopyTemplate.cmd</DefaultAnnotationText>
+          <DefaultAnnotationText>Run CopyTemplate.bat</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
         <Dependencies>
@@ -612,7 +618,7 @@ ENDIF</DefaultAnnotationText>
           </Fields>
           <Data>
             <r>
-              <c>MOVE /Y "C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\Output\output.csv" "C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\Output\output.json"</c>
+              <c>MOVE /Y "C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\Output\json-output.csv" "C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\Output\output.json"</c>
             </r>
           </Data>
         </Configuration>
@@ -668,6 +674,20 @@ ENDIF</DefaultAnnotationText>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
     </Node>
+    <Node ToolID="70">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BlockUntilDone.BlockUntilDone">
+        <Position x="1386" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBlockUntilDone" />
+    </Node>
     <Node ToolID="33">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
         <Position x="329" y="54" width="678" height="358" />
@@ -693,7 +713,7 @@ ENDIF</DefaultAnnotationText>
           </GuiSettings>
           <Properties>
             <Configuration>
-              <TempFile>C:\Users\hu2r0240\AppData\Local\Temp\Engine_59592_83fe033e25b2814781d1ae77ec51e5fc_\Engine_59592_bf7c2183dae5494a826ac83661b78ae9~.yxdb</TempFile>
+              <TempFile>C:\Users\hu2r0240\AppData\Local\Temp\Engine_37268_199f74efc7789144bae21634cc095fb2_\Engine_37268_199116d85e31dc4e9a816d73e336768f~.yxdb</TempFile>
               <TempFileDataProfiling />
               <Layout>
                 <ViewMode>Single</ViewMode>
@@ -1129,6 +1149,10 @@ else [Name] endif</DefaultAnnotationText>
       <Destination ToolID="66" Connection="Input" />
     </Connection>
     <Connection>
+      <Origin ToolID="70" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection>
       <Origin ToolID="24" Connection="True" />
       <Destination ToolID="28" Connection="Input" />
     </Connection>
@@ -1178,7 +1202,7 @@ else [Name] endif</DefaultAnnotationText>
     </Connection>
     <Connection>
       <Origin ToolID="52" Connection="Output" />
-      <Destination ToolID="38" Connection="Input" />
+      <Destination ToolID="70" Connection="Input" />
     </Connection>
   </Connections>
   <Properties>
