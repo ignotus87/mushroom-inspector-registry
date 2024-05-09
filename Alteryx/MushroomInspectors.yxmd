@@ -1,78 +1,9 @@
 <?xml version="1.0"?>
 <AlteryxDocument yxmdVer="2023.1">
   <Nodes>
-    <Node ToolID="1">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.Directory.Directory">
-        <Position x="54" y="176" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <Directory>C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\OriginalInput\Latest</Directory>
-          <FileSpec>GOMBA-szakellenőr NYILVÁNTARTÁS_202305 public.xlsx</FileSpec>
-          <IncludeSubDirs value="False" />
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <AnnotationText>input Excel</AnnotationText>
-          <DefaultAnnotationText>dir C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\OriginalInput\Latest\GOMBA-szakellenőr NYILVÁNTARTÁS_202305 public.xlsx</DefaultAnnotationText>
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDirectory" />
-    </Node>
-    <Node ToolID="2">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="126" y="176" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <OrderChanged value="False" />
-          <CommaDecimal value="False" />
-          <SelectFields>
-            <SelectField field="FullPath" selected="True" />
-            <SelectField field="*Unknown" selected="False" />
-          </SelectFields>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
-    </Node>
-    <Node ToolID="4">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="1050" y="224" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <TempFile>C:\Users\hu2r0240\AppData\Local\Temp\Engine_37268_199f74efc7789144bae21634cc095fb2_\Engine_37268_9e153ffeb9962f49b6c7000815ec0e42~.yxdb</TempFile>
-          <TempFileDataProfiling />
-          <Layout>
-            <ViewMode>Single</ViewMode>
-            <ViewSize value="100" />
-            <View1>
-              <DefaultTab>Profile</DefaultTab>
-              <Hints>
-                <Table />
-              </Hints>
-            </View1>
-            <View2 />
-          </Layout>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <AnnotationText>data after "strike-out" data is removed</AnnotationText>
-          <DefaultAnnotationText>削除後のデータ一覧</DefaultAnnotationText>
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
-    </Node>
     <Node ToolID="34">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="1602" y="234" />
+        <Position x="990" y="126" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -88,7 +19,7 @@
             <SelectField field="G" selected="True" rename="StreetAddress" />
             <SelectField field="H" selected="True" rename="LocationDescription" />
             <SelectField field="I" selected="True" rename="Availability" />
-            <SelectField field="J" selected="True" rename="LastChangeDate" />
+            <SelectField field="J" selected="False" rename="LastChangeDate" />
             <SelectField field="*Unknown" selected="True" />
           </SelectFields>
         </Configuration>
@@ -101,37 +32,19 @@
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
     </Node>
-    <Node ToolID="36">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="1014" y="104" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <Expression>[Row] &lt; 5</Expression>
-          <Mode>Custom</Mode>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <AnnotationText>Remove headers</AnnotationText>
-          <DefaultAnnotationText>[Row] &lt; 5</DefaultAnnotationText>
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
-    </Node>
     <Node ToolID="37">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="1122" y="104" />
+        <Position x="630" y="126" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <Expression>B="" and C="" and D="" and E="" and F="" and G="" and H="" and I=""</Expression>
+          <Expression>B="" and C="" and E="" and F="" and G="" and H="" and I=""</Expression>
           <Mode>Custom</Mode>
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
           <AnnotationText>Remove empty rows</AnnotationText>
-          <DefaultAnnotationText>B="" and C="" and D="" and E="" and F="" and G="" and H="" and I=""</DefaultAnnotationText>
+          <DefaultAnnotationText>B="" and C="" and E="" and F="" and G="" and H="" and I=""</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
       </Properties>
@@ -139,7 +52,7 @@
     </Node>
     <Node ToolID="38">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-        <Position x="1482" y="498" />
+        <Position x="1122" y="366" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -161,15 +74,12 @@
           <DefaultAnnotationText>output.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
     </Node>
     <Node ToolID="40">
       <GuiSettings Plugin="AlteryxBasePluginsGui.JSONBuild.JSONBuild">
-        <Position x="1578" y="702" />
+        <Position x="594" y="834" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -192,7 +102,7 @@
     </Node>
     <Node ToolID="41">
       <GuiSettings>
-        <Position x="1218" y="116" />
+        <Position x="714" y="128" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -220,7 +130,7 @@
     </Node>
     <Node ToolID="42">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
-        <Position x="1494" y="702" />
+        <Position x="510" y="834" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -251,7 +161,7 @@
     </Node>
     <Node ToolID="44">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-        <Position x="2130" y="690" />
+        <Position x="1146" y="822" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -273,68 +183,12 @@
           <DefaultAnnotationText>json-output.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
     </Node>
-    <Node ToolID="45">
-      <GuiSettings>
-        <Position x="234" y="188" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <Value name="ControlParams"><![CDATA[Control Parameter (24)=FullPath
-]]></Value>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-        <MetaInfo connection="Output25">
-          <RecordInfo>
-            <Field name="cell_name" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
-            <Field name="value" size="2048" source="CrossTab:Header:Name:new_value:Concat:" type="V_WString" />
-            <Field name="FileName" size="130" source="Formula: REGEX_Replace([FileName], &quot;([^\|]+)\|\|\|[^\|]+&quot;, &quot;$1&quot;)" type="WString" />
-            <Field name="SheetName" size="6" source="File: C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\OriginalInput\Latest\GOMBA-szakellenőr NYILVÁNTARTÁS_202302 public.xlsx|||&lt;List of Sheet Names&gt;" type="String" />
-          </RecordInfo>
-        </MetaInfo>
-        <MetaInfo connection="Output26">
-          <RecordInfo>
-            <Field name="cell_name" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
-            <Field name="before" size="2048" source="CrossTab:Header:Name:value:Concat:" type="V_WString" />
-            <Field name="after" size="2048" source="CrossTab:Header:Name:new_value:Concat:" type="V_WString" />
-            <Field name="FileName" size="130" source="Formula: REGEX_Replace([FileName], &quot;([^\|]+)\|\|\|[^\|]+&quot;, &quot;$1&quot;)" type="WString" />
-            <Field name="SheetName" size="6" source="File: C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\OriginalInput\Latest\GOMBA-szakellenőr NYILVÁNTARTÁS_202302 public.xlsx|||&lt;List of Sheet Names&gt;" type="String" />
-          </RecordInfo>
-        </MetaInfo>
-      </Properties>
-      <EngineSettings Macro="Macros\batch_macro_read_multiple_excel_sheet.yxmc" />
-    </Node>
-    <Node ToolID="46">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="1314" y="116" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <FormulaFields>
-            <FormulaField expression="if [J]  != &quot;&quot; then [J] else [A] endif" field="J" size="2048" type="V_WString" />
-          </FormulaFields>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText><![CDATA[J = if [J]  != "" then [J] else [A] endif
-]]></DefaultAnnotationText>
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
-    </Node>
     <Node ToolID="47">
       <GuiSettings>
-        <Position x="1398" y="114" />
+        <Position x="798" y="126" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -362,7 +216,7 @@
     </Node>
     <Node ToolID="48">
       <GuiSettings>
-        <Position x="1506" y="234" />
+        <Position x="894" y="126" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -391,7 +245,7 @@
     </Node>
     <Node ToolID="54">
       <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-        <Position x="1314" y="702" />
+        <Position x="330" y="834" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -415,7 +269,7 @@
     </Node>
     <Node ToolID="55">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="1410" y="702" />
+        <Position x="426" y="834" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -436,7 +290,7 @@
     </Node>
     <Node ToolID="58">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="1770" y="702" />
+        <Position x="786" y="834" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -457,7 +311,7 @@
     </Node>
     <Node ToolID="59">
       <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-        <Position x="1662" y="702" />
+        <Position x="678" y="834" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -485,7 +339,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="60">
       <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-        <Position x="1818" y="618" />
+        <Position x="834" y="750" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -509,7 +363,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="61">
       <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-        <Position x="1818" y="786" />
+        <Position x="834" y="918" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -533,7 +387,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="62">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-        <Position x="1902" y="702" />
+        <Position x="918" y="834" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -552,7 +406,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="64">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BlockUntilDone.BlockUntilDone">
-        <Position x="1998" y="702" />
+        <Position x="1014" y="834" />
       </GuiSettings>
       <Properties>
         <Configuration />
@@ -566,7 +420,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="66">
       <GuiSettings Plugin="AlteryxBasePluginsGui.RunCommand.RunCommand">
-        <Position x="2286" y="810" />
+        <Position x="1302" y="942" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -600,15 +454,12 @@ ENDIF</DefaultAnnotationText>
           <DefaultAnnotationText>Run CopyTemplate.bat</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRunCommand" />
     </Node>
     <Node ToolID="67">
       <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-        <Position x="1974" y="834" />
+        <Position x="990" y="966" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -632,7 +483,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="68">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
-        <Position x="2094" y="810" />
+        <Position x="1110" y="942" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -658,7 +509,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="69">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
-        <Position x="2190" y="810" />
+        <Position x="1206" y="942" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -676,7 +527,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="70">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BlockUntilDone.BlockUntilDone">
-        <Position x="1386" y="510" />
+        <Position x="1026" y="378" />
       </GuiSettings>
       <Properties>
         <Configuration />
@@ -688,254 +539,143 @@ ENDIF</DefaultAnnotationText>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBlockUntilDone" />
     </Node>
-    <Node ToolID="33">
-      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="329" y="54" width="678" height="358" />
+    <Node ToolID="71">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="114" y="126" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <Caption>Read without strikethrough</Caption>
-          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
-          <Disabled value="False" />
-          <Folded value="False" />
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\OriginalInput\Latest\uj-gomba-szakellenor-nyilvantartas_202404public_0.xlsx|||&lt;List of Sheet Names&gt;</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
-          <AnnotationText>Read without strikethrough</AnnotationText>
+          <AnnotationText>Read sheet names</AnnotationText>
+          <DefaultAnnotationText>uj-gomba-szakellenor-nyilvantartas_202404public_0.xlsx
+Query=&lt;List of Sheet Names&gt;</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Sheet Names" size="31" source="File: C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\OriginalInput\Latest\uj-gomba-szakellenor-nyilvantartas_202404public_0.xlsx|||&lt;List of Sheet Names&gt;" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="72">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicInput.DynamicInput">
+        <Position x="210" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <InputConfiguration>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="Path" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\OriginalInput\Latest\uj-gomba-szakellenor-nyilvantartas_202404public_0.xlsx|||`Formula$`</File>
+              <FormatSpecificOptions>
+                <FirstRowData>False</FirstRowData>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+          </InputConfiguration>
+          <Mode>ReadList</Mode>
+          <ReadList_Field>Sheet Names</ReadList_Field>
+          <ReadList_Type>FileName</ReadList_Type>
+          <ErrorBehaviour>Warning</ErrorBehaviour>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Read sheets</AnnotationText>
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
       </Properties>
-      <ChildNodes>
-        <Node ToolID="5">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="498" y="284" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <TempFile>C:\Users\hu2r0240\AppData\Local\Temp\Engine_37268_199f74efc7789144bae21634cc095fb2_\Engine_37268_199116d85e31dc4e9a816d73e336768f~.yxdb</TempFile>
-              <TempFileDataProfiling />
-              <Layout>
-                <ViewMode>Single</ViewMode>
-                <ViewSize value="100" />
-                <View1>
-                  <DefaultTab>Profile</DefaultTab>
-                  <Hints>
-                    <Table />
-                  </Hints>
-                </View1>
-                <View2 />
-              </Layout>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>comparison before and after</AnnotationText>
-              <DefaultAnnotationText>削除したデータの前後比較</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
-        </Node>
-        <Node ToolID="24">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="354" y="103" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Mode>Simple</Mode>
-              <Simple>
-                <Operator>=</Operator>
-                <Field>SheetName</Field>
-                <Operands>
-                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
-                  <DateType>fixed</DateType>
-                  <PeriodDate>2024-05-08 09:11:10</PeriodDate>
-                  <PeriodType>
-                  </PeriodType>
-                  <PeriodCount>0</PeriodCount>
-                  <Operand>Munka1</Operand>
-                  <StartDate>2024-05-08 09:11:10</StartDate>
-                  <EndDate>2024-05-08 09:11:10</EndDate>
-                </Operands>
-              </Simple>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText>[SheetName] = "Munka1"</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
-        </Node>
-        <Node ToolID="25">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="366" y="296" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Mode>Simple</Mode>
-              <Simple>
-                <Operator>=</Operator>
-                <Field>SheetName</Field>
-                <Operands>
-                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
-                  <DateType>fixed</DateType>
-                  <PeriodDate>2024-05-08 09:11:10</PeriodDate>
-                  <PeriodType>
-                  </PeriodType>
-                  <PeriodCount>0</PeriodCount>
-                  <Operand>Munka1</Operand>
-                  <StartDate>2024-05-08 09:11:10</StartDate>
-                  <EndDate>2024-05-08 09:11:10</EndDate>
-                </Operands>
-              </Simple>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText>[SheetName] = Munka1</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
-        </Node>
-        <Node ToolID="28">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="474" y="103" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <FormulaFields>
-                <FormulaField expression="left([cell_name],1)" field="Column" size="10" type="V_WString" />
-                <FormulaField expression="Substring([cell_name],1,10)" field="Row" size="10" type="V_WString" />
-              </FormulaFields>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText><![CDATA[Column = left([cell_name],1)
-Row = Substring([cell_name],1,10)
-]]></DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
-        </Node>
-        <Node ToolID="29">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="582" y="103" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <OrderChanged value="False" />
-              <CommaDecimal value="False" />
-              <SelectFields>
-                <SelectField field="cell_name" selected="False" />
-                <SelectField field="Row" selected="True" type="Int64" size="8" />
-                <SelectField field="*Unknown" selected="True" />
-              </SelectFields>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText />
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
-        </Node>
-        <Node ToolID="30">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="666" y="104" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Mode>Simple</Mode>
-              <Simple>
-                <Operator>IsNotNull</Operator>
-                <Field>Row</Field>
-                <Operands>
-                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
-                  <DateType>fixed</DateType>
-                  <PeriodDate>2024-05-08 09:21:21</PeriodDate>
-                  <PeriodType>
-                  </PeriodType>
-                  <PeriodCount>0</PeriodCount>
-                  <Operand>
-                  </Operand>
-                  <StartDate>2024-05-08 09:21:21</StartDate>
-                  <EndDate>2024-05-08 09:21:21</EndDate>
-                </Operands>
-              </Simple>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText>!IsNull([Row])</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
-        </Node>
-        <Node ToolID="31">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
-            <Position x="762" y="104" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <GroupFields>
-                <Field field="Row" />
-              </GroupFields>
-              <HeaderField field="Column" />
-              <DataField field="value" />
-              <Methods>
-                <Method method="Concat" />
-                <Separator>,</Separator>
-                <FieldSize value="2048" />
-              </Methods>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText />
-              <Left value="False" />
-            </Annotation>
-            <MetaInfo connection="Output">
-              <RecordInfo>
-                <Field name="Row" source="CrossTab:Group:Concat:" type="Int64" />
-                <Field name="A" size="2048" source="CrossTab:Header:Column:A:Concat:" type="V_WString" />
-                <Field name="B" size="2048" source="CrossTab:Header:Column:B:Concat:" type="V_WString" />
-                <Field name="C" size="2048" source="CrossTab:Header:Column:C:Concat:" type="V_WString" />
-                <Field name="D" size="2048" source="CrossTab:Header:Column:D:Concat:" type="V_WString" />
-                <Field name="E" size="2048" source="CrossTab:Header:Column:E:Concat:" type="V_WString" />
-                <Field name="F" size="2048" source="CrossTab:Header:Column:F:Concat:" type="V_WString" />
-                <Field name="G" size="2048" source="CrossTab:Header:Column:G:Concat:" type="V_WString" />
-                <Field name="H" size="2048" source="CrossTab:Header:Column:H:Concat:" type="V_WString" />
-                <Field name="I" size="2048" source="CrossTab:Header:Column:I:Concat:" type="V_WString" />
-                <Field name="J" size="2048" source="CrossTab:Header:Column:J:Concat:" type="V_WString" />
-              </RecordInfo>
-            </MetaInfo>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
-        </Node>
-        <Node ToolID="32">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="882" y="104" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <SortInfo locale="1033">
-                <Field field="Row" order="Ascending" />
-              </SortInfo>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText>Row - Ascending</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
-        </Node>
-      </ChildNodes>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicInput" />
+    </Node>
+    <Node ToolID="73">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="306" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>isnull([nyilvántartási szám])
+and isnull(név)
+and [tevékenység helye, ideje]='irányítószám'</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Remove header</AnnotationText>
+          <DefaultAnnotationText>isnull([nyilvántartási szám])
+and isnull(név)
+and [tevékenység helye, ideje]='ir...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="74">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="510" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="nyilvántartási szám" selected="True" rename="B" />
+            <SelectField field="név" selected="True" rename="C" />
+            <SelectField field="tevékenység helye, ideje" selected="True" rename="E" />
+            <SelectField field="F4" selected="True" rename="F" />
+            <SelectField field="F5" selected="True" rename="G" />
+            <SelectField field="F6" selected="True" rename="H" />
+            <SelectField field="F7" selected="True" rename="I" />
+            <SelectField field="FileName" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Rename to comply previous format</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="75">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+        <Position x="414" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UpdateField value="False" />
+          <UpdateField_Name>nyilvántartási szám</UpdateField_Name>
+          <CreateField_Name>Row</CreateField_Name>
+          <CreateField_Type>Int32</CreateField_Type>
+          <CreateField_Size>4</CreateField_Size>
+          <OtherRows>Empty</OtherRows>
+          <NumRows value="1" />
+          <Expression>[Row-1:Row]+1</Expression>
+          <GroupByFields />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Row nr</AnnotationText>
+          <DefaultAnnotationText>[Row-1:Row]+1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
     </Node>
     <Node ToolID="53">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="665" y="593" width="427" height="240" />
+        <Position x="485" y="365" width="427" height="240" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -954,7 +694,7 @@ Row = Substring([cell_name],1,10)
       <ChildNodes>
         <Node ToolID="49">
           <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-            <Position x="690" y="642" />
+            <Position x="510" y="414" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -982,7 +722,7 @@ then [Row-1:RegistrationNumber]
         </Node>
         <Node ToolID="50">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="918" y="642" />
+            <Position x="738" y="414" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1000,7 +740,7 @@ then [Row-1:RegistrationNumber]
         </Node>
         <Node ToolID="51">
           <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-            <Position x="810" y="642" />
+            <Position x="630" y="414" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1028,7 +768,7 @@ else [Name] endif</DefaultAnnotationText>
         </Node>
         <Node ToolID="52">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="1002" y="642" />
+            <Position x="822" y="414" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1049,20 +789,8 @@ else [Name] endif</DefaultAnnotationText>
   </Nodes>
   <Connections>
     <Connection>
-      <Origin ToolID="1" Connection="Output" />
-      <Destination ToolID="2" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="2" Connection="Output" />
-      <Destination ToolID="45" Connection="Control" />
-    </Connection>
-    <Connection>
       <Origin ToolID="34" Connection="Output" />
       <Destination ToolID="49" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="36" Connection="False" />
-      <Destination ToolID="37" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="37" Connection="False" />
@@ -1074,23 +802,11 @@ else [Name] endif</DefaultAnnotationText>
     </Connection>
     <Connection>
       <Origin ToolID="41" Connection="Output26" />
-      <Destination ToolID="46" Connection="Input" />
+      <Destination ToolID="47" Connection="Input2" />
     </Connection>
     <Connection>
       <Origin ToolID="42" Connection="Output" />
       <Destination ToolID="40" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="45" Connection="Output25" />
-      <Destination ToolID="24" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="45" Connection="Output26" />
-      <Destination ToolID="25" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="46" Connection="Output" />
-      <Destination ToolID="47" Connection="Input2" />
     </Connection>
     <Connection>
       <Origin ToolID="47" Connection="Output26" />
@@ -1153,36 +869,24 @@ else [Name] endif</DefaultAnnotationText>
       <Destination ToolID="38" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="24" Connection="True" />
-      <Destination ToolID="28" Connection="Input" />
+      <Origin ToolID="71" Connection="Output" />
+      <Destination ToolID="72" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="25" Connection="True" />
-      <Destination ToolID="5" Connection="Input" />
+      <Origin ToolID="72" Connection="Output" />
+      <Destination ToolID="73" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="28" Connection="Output" />
-      <Destination ToolID="29" Connection="Input" />
+      <Origin ToolID="73" Connection="False" />
+      <Destination ToolID="75" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="29" Connection="Output" />
-      <Destination ToolID="30" Connection="Input" />
+      <Origin ToolID="74" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="30" Connection="True" />
-      <Destination ToolID="31" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="31" Connection="Output" />
-      <Destination ToolID="32" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="32" Connection="Output" />
-      <Destination ToolID="4" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="32" Connection="Output" />
-      <Destination ToolID="36" Connection="Input" />
+      <Origin ToolID="75" Connection="Output" />
+      <Destination ToolID="74" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="49" Connection="Output" />
