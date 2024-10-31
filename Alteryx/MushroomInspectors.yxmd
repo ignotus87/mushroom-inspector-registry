@@ -3,7 +3,7 @@
   <Nodes>
     <Node ToolID="34">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="990" y="126" />
+        <Position x="930" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -34,7 +34,7 @@
     </Node>
     <Node ToolID="37">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="630" y="126" />
+        <Position x="570" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -52,7 +52,7 @@
     </Node>
     <Node ToolID="38">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-        <Position x="1122" y="366" />
+        <Position x="1062" y="294" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -79,7 +79,7 @@
     </Node>
     <Node ToolID="40">
       <GuiSettings Plugin="AlteryxBasePluginsGui.JSONBuild.JSONBuild">
-        <Position x="594" y="834" />
+        <Position x="534" y="762" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -102,7 +102,7 @@
     </Node>
     <Node ToolID="41">
       <GuiSettings>
-        <Position x="714" y="128" />
+        <Position x="654" y="56" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -130,7 +130,7 @@
     </Node>
     <Node ToolID="42">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
-        <Position x="510" y="834" />
+        <Position x="450" y="762" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -161,7 +161,7 @@
     </Node>
     <Node ToolID="44">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-        <Position x="1146" y="822" />
+        <Position x="1086" y="750" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -188,7 +188,7 @@
     </Node>
     <Node ToolID="47">
       <GuiSettings>
-        <Position x="798" y="126" />
+        <Position x="738" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -216,7 +216,7 @@
     </Node>
     <Node ToolID="48">
       <GuiSettings>
-        <Position x="894" y="126" />
+        <Position x="834" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -245,7 +245,7 @@
     </Node>
     <Node ToolID="54">
       <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-        <Position x="330" y="834" />
+        <Position x="270" y="762" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -269,7 +269,7 @@
     </Node>
     <Node ToolID="55">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="426" y="834" />
+        <Position x="366" y="762" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -290,7 +290,7 @@
     </Node>
     <Node ToolID="58">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="786" y="834" />
+        <Position x="726" y="762" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -311,7 +311,7 @@
     </Node>
     <Node ToolID="59">
       <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-        <Position x="678" y="834" />
+        <Position x="618" y="762" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -339,7 +339,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="60">
       <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-        <Position x="834" y="750" />
+        <Position x="774" y="678" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -363,7 +363,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="61">
       <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-        <Position x="834" y="918" />
+        <Position x="774" y="846" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -387,7 +387,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="62">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-        <Position x="918" y="834" />
+        <Position x="858" y="762" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -406,7 +406,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="64">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BlockUntilDone.BlockUntilDone">
-        <Position x="1014" y="834" />
+        <Position x="954" y="762" />
       </GuiSettings>
       <Properties>
         <Configuration />
@@ -420,7 +420,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="66">
       <GuiSettings Plugin="AlteryxBasePluginsGui.RunCommand.RunCommand">
-        <Position x="1302" y="942" />
+        <Position x="1242" y="870" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -459,7 +459,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="67">
       <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-        <Position x="990" y="966" />
+        <Position x="930" y="894" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -483,7 +483,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="68">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
-        <Position x="1110" y="942" />
+        <Position x="1050" y="870" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -509,7 +509,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="69">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
-        <Position x="1206" y="942" />
+        <Position x="1146" y="870" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -527,7 +527,7 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="70">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BlockUntilDone.BlockUntilDone">
-        <Position x="1026" y="378" />
+        <Position x="966" y="306" />
       </GuiSettings>
       <Properties>
         <Configuration />
@@ -541,12 +541,12 @@ ENDIF</DefaultAnnotationText>
     </Node>
     <Node ToolID="71">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="114" y="126" />
+        <Position x="54" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <Passwords />
-          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\OriginalInput\Latest\uj-gomba-szakellenor-nyilvantartas_202404public_0.xlsx|||&lt;List of Sheet Names&gt;</File>
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\OriginalInput\Latest\uj-gomba-szakellenor-nyilvantartas_202410public.xlsx|||&lt;List of Sheet Names&gt;</File>
           <FormatSpecificOptions>
             <FirstRowData>False</FirstRowData>
             <ImportLine>1</ImportLine>
@@ -555,13 +555,16 @@ ENDIF</DefaultAnnotationText>
         <Annotation DisplayMode="0">
           <Name />
           <AnnotationText>Read sheet names</AnnotationText>
-          <DefaultAnnotationText>uj-gomba-szakellenor-nyilvantartas_202404public_0.xlsx
+          <DefaultAnnotationText>uj-gomba-szakellenor-nyilvantartas_202410public.xlsx
 Query=&lt;List of Sheet Names&gt;</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
-            <Field name="Sheet Names" size="31" source="File: C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\OriginalInput\Latest\uj-gomba-szakellenor-nyilvantartas_202404public_0.xlsx|||&lt;List of Sheet Names&gt;" type="V_WString" />
+            <Field name="Sheet Names" size="31" source="File: C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\OriginalInput\Latest\uj-gomba-szakellenor-nyilvantartas_202410public.xlsx|||&lt;List of Sheet Names&gt;" type="V_WString" />
           </RecordInfo>
         </MetaInfo>
       </Properties>
@@ -569,14 +572,14 @@ Query=&lt;List of Sheet Names&gt;</DefaultAnnotationText>
     </Node>
     <Node ToolID="72">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicInput.DynamicInput">
-        <Position x="210" y="126" />
+        <Position x="150" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <InputConfiguration>
             <Configuration>
               <Passwords />
-              <File OutputFileName="Path" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\OriginalInput\Latest\uj-gomba-szakellenor-nyilvantartas_202404public_0.xlsx|||`Formula$`</File>
+              <File OutputFileName="Path" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\hu2r0240\source\repos\mushroom-inspector-registry\OriginalInput\Latest\uj-gomba-szakellenor-nyilvantartas_202410public.xlsx|||`Formula$`</File>
               <FormatSpecificOptions>
                 <FirstRowData>False</FirstRowData>
                 <ImportLine>1</ImportLine>
@@ -594,12 +597,15 @@ Query=&lt;List of Sheet Names&gt;</DefaultAnnotationText>
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicInput" />
     </Node>
     <Node ToolID="73">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="306" y="126" />
+        <Position x="246" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -621,7 +627,7 @@ and [tevékenység helye, ideje]='ir...</DefaultAnnotationText>
     </Node>
     <Node ToolID="74">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="510" y="126" />
+        <Position x="450" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -650,7 +656,7 @@ and [tevékenység helye, ideje]='ir...</DefaultAnnotationText>
     </Node>
     <Node ToolID="75">
       <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-        <Position x="414" y="126" />
+        <Position x="354" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -675,7 +681,7 @@ and [tevékenység helye, ideje]='ir...</DefaultAnnotationText>
     </Node>
     <Node ToolID="53">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="485" y="365" width="427" height="240" />
+        <Position x="425" y="293" width="427" height="240" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -694,7 +700,7 @@ and [tevékenység helye, ideje]='ir...</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="49">
           <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-            <Position x="510" y="414" />
+            <Position x="450" y="342" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -722,7 +728,7 @@ then [Row-1:RegistrationNumber]
         </Node>
         <Node ToolID="50">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="738" y="414" />
+            <Position x="678" y="342" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -740,7 +746,7 @@ then [Row-1:RegistrationNumber]
         </Node>
         <Node ToolID="51">
           <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-            <Position x="630" y="414" />
+            <Position x="570" y="342" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -768,7 +774,7 @@ else [Name] endif</DefaultAnnotationText>
         </Node>
         <Node ToolID="52">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="822" y="414" />
+            <Position x="762" y="342" />
           </GuiSettings>
           <Properties>
             <Configuration>
